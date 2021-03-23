@@ -881,1300 +881,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 718267645}
   m_CullTransparentMesh: 0
---- !u!1001 &734026639
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 23549803906043582, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0.012337395
-      objectReference: {fileID: 0}
-    - target: {fileID: 23549803906043582, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0.005559634
-      objectReference: {fileID: 0}
-    - target: {fileID: 23549803906043582, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0.014452244
-      objectReference: {fileID: 0}
-    - target: {fileID: 23549803906043582, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.999804
-      objectReference: {fileID: 0}
-    - target: {fileID: 501029441827619974, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0.015487175
-      objectReference: {fileID: 0}
-    - target: {fileID: 501029441827619974, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0.004482245
-      objectReference: {fileID: 0}
-    - target: {fileID: 501029441827619974, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0.0017355015
-      objectReference: {fileID: 0}
-    - target: {fileID: 501029441827619974, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.9998686
-      objectReference: {fileID: 0}
-    - target: {fileID: 693469582084604616, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -9.094946e-10
-      objectReference: {fileID: 0}
-    - target: {fileID: 693469582084604616, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0.000000031664964
-      objectReference: {fileID: 0}
-    - target: {fileID: 693469582084604616, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0.00000018440184
-      objectReference: {fileID: 0}
-    - target: {fileID: 693469582084604616, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 700742455048433515, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0.008612155
-      objectReference: {fileID: 0}
-    - target: {fileID: 700742455048433515, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0.00040449196
-      objectReference: {fileID: 0}
-    - target: {fileID: 700742455048433515, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0.00503353
-      objectReference: {fileID: 0}
-    - target: {fileID: 700742455048433515, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: -0.9999502
-      objectReference: {fileID: 0}
-    - target: {fileID: 700742455048433515, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0.021353483
-      objectReference: {fileID: 0}
-    - target: {fileID: 775443774142461625, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0.015487167
-      objectReference: {fileID: 0}
-    - target: {fileID: 775443774142461625, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0.004482243
-      objectReference: {fileID: 0}
-    - target: {fileID: 775443774142461625, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0.0017356802
-      objectReference: {fileID: 0}
-    - target: {fileID: 775443774142461625, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.9998686
-      objectReference: {fileID: 0}
-    - target: {fileID: 800272374280943693, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0.030378887
-      objectReference: {fileID: 0}
-    - target: {fileID: 800272374280943693, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0.05516493
-      objectReference: {fileID: 0}
-    - target: {fileID: 800272374280943693, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0.018605478
-      objectReference: {fileID: 0}
-    - target: {fileID: 800272374280943693, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.9978416
-      objectReference: {fileID: 0}
-    - target: {fileID: 800272374280943693, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -0.04578343
-      objectReference: {fileID: 0}
-    - target: {fileID: 800272374280943693, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0.9174282
-      objectReference: {fileID: 0}
-    - target: {fileID: 800272374280943693, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0.05076119
-      objectReference: {fileID: 0}
-    - target: {fileID: 856416324132471149, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0.008693452
-      objectReference: {fileID: 0}
-    - target: {fileID: 856416324132471149, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0.0003702268
-      objectReference: {fileID: 0}
-    - target: {fileID: 856416324132471149, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0.0050780848
-      objectReference: {fileID: 0}
-    - target: {fileID: 856416324132471149, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.9999493
-      objectReference: {fileID: 0}
-    - target: {fileID: 856416324132471149, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0.033249233
-      objectReference: {fileID: 0}
-    - target: {fileID: 882165421963707172, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0.0000001872535
-      objectReference: {fileID: 0}
-    - target: {fileID: 959173910792967857, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0.044779528
-      objectReference: {fileID: 0}
-    - target: {fileID: 959173910792967857, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0.0037090476
-      objectReference: {fileID: 0}
-    - target: {fileID: 959173910792967857, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0.0062773675
-      objectReference: {fileID: 0}
-    - target: {fileID: 959173910792967857, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: -0.9989703
-      objectReference: {fileID: 0}
-    - target: {fileID: 959173910792967857, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0.06390494
-      objectReference: {fileID: 0}
-    - target: {fileID: 990965945015770624, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0.008687255
-      objectReference: {fileID: 0}
-    - target: {fileID: 990965945015770624, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0.018278504
-      objectReference: {fileID: 0}
-    - target: {fileID: 990965945015770624, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0.03417376
-      objectReference: {fileID: 0}
-    - target: {fileID: 990965945015770624, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.9992111
-      objectReference: {fileID: 0}
-    - target: {fileID: 990965945015770624, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -0.066109836
-      objectReference: {fileID: 0}
-    - target: {fileID: 1246691388863919276, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0.033375174
-      objectReference: {fileID: 0}
-    - target: {fileID: 1246691388863919276, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0.012237647
-      objectReference: {fileID: 0}
-    - target: {fileID: 1246691388863919276, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0.0020556408
-      objectReference: {fileID: 0}
-    - target: {fileID: 1246691388863919276, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.99936587
-      objectReference: {fileID: 0}
-    - target: {fileID: 1352914556441639444, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0.0036928593
-      objectReference: {fileID: 0}
-    - target: {fileID: 1352914556441639444, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0.0010783591
-      objectReference: {fileID: 0}
-    - target: {fileID: 1352914556441639444, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0.00003857551
-      objectReference: {fileID: 0}
-    - target: {fileID: 1352914556441639444, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: -0.9999926
-      objectReference: {fileID: 0}
-    - target: {fileID: 1570563483997035255, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0.011804396
-      objectReference: {fileID: 0}
-    - target: {fileID: 1570563483997035255, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0.005319129
-      objectReference: {fileID: 0}
-    - target: {fileID: 1570563483997035255, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0.0004708757
-      objectReference: {fileID: 0}
-    - target: {fileID: 1570563483997035255, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: -0.9999161
-      objectReference: {fileID: 0}
-    - target: {fileID: 1667375511408515668, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0.35935134
-      objectReference: {fileID: 0}
-    - target: {fileID: 1667375511408515668, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0.07594925
-      objectReference: {fileID: 0}
-    - target: {fileID: 1667375511408515668, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0.16758618
-      objectReference: {fileID: 0}
-    - target: {fileID: 1667375511408515668, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.91488427
-      objectReference: {fileID: 0}
-    - target: {fileID: 1667375511408515668, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -0.2135739
-      objectReference: {fileID: 0}
-    - target: {fileID: 1917008079161875365, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0.0000001872535
-      objectReference: {fileID: 0}
-    - target: {fileID: 1917008079161875365, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0.000000119209275
-      objectReference: {fileID: 0}
-    - target: {fileID: 2055008335314409320, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0.015481084
-      objectReference: {fileID: 0}
-    - target: {fileID: 2055008335314409320, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0.00448037
-      objectReference: {fileID: 0}
-    - target: {fileID: 2055008335314409320, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0.0017333147
-      objectReference: {fileID: 0}
-    - target: {fileID: 2055008335314409320, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: -0.99986863
-      objectReference: {fileID: 0}
-    - target: {fileID: 2268711283237458032, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0.02294508
-      objectReference: {fileID: 0}
-    - target: {fileID: 2268711283237458032, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0.12281777
-      objectReference: {fileID: 0}
-    - target: {fileID: 2268711283237458032, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0.1783939
-      objectReference: {fileID: 0}
-    - target: {fileID: 2268711283237458032, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.97599435
-      objectReference: {fileID: 0}
-    - target: {fileID: 2268711283237458032, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -0.063259244
-      objectReference: {fileID: 0}
-    - target: {fileID: 2875353730162610728, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0.033380903
-      objectReference: {fileID: 0}
-    - target: {fileID: 2875353730162610728, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0.012239506
-      objectReference: {fileID: 0}
-    - target: {fileID: 2875353730162610728, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0.002021622
-      objectReference: {fileID: 0}
-    - target: {fileID: 2875353730162610728, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: -0.99936575
-      objectReference: {fileID: 0}
-    - target: {fileID: 3031768204351043814, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0.033377383
-      objectReference: {fileID: 0}
-    - target: {fileID: 3031768204351043814, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0.01223821
-      objectReference: {fileID: 0}
-    - target: {fileID: 3031768204351043814, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0.0020562934
-      objectReference: {fileID: 0}
-    - target: {fileID: 3031768204351043814, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: -0.9993658
-      objectReference: {fileID: 0}
-    - target: {fileID: 3055016443060271854, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0.019333167
-      objectReference: {fileID: 0}
-    - target: {fileID: 3055016443060271854, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0.08189378
-      objectReference: {fileID: 0}
-    - target: {fileID: 3055016443060271854, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0.1285905
-      objectReference: {fileID: 0}
-    - target: {fileID: 3055016443060271854, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.98812157
-      objectReference: {fileID: 0}
-    - target: {fileID: 3055016443060271854, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -0.066678286
-      objectReference: {fileID: 0}
-    - target: {fileID: 3358681760425707530, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3358681760425707530, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3583612271244106444, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0.039110657
-      objectReference: {fileID: 0}
-    - target: {fileID: 3583612271244106444, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0.17324787
-      objectReference: {fileID: 0}
-    - target: {fileID: 3583612271244106444, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0.010990842
-      objectReference: {fileID: 0}
-    - target: {fileID: 3583612271244106444, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.98404
-      objectReference: {fileID: 0}
-    - target: {fileID: 3585463915369445623, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3682830691519812973, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0.008612155
-      objectReference: {fileID: 0}
-    - target: {fileID: 3682830691519812973, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0.00040457392
-      objectReference: {fileID: 0}
-    - target: {fileID: 3682830691519812973, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0.0050335373
-      objectReference: {fileID: 0}
-    - target: {fileID: 3682830691519812973, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: -0.9999502
-      objectReference: {fileID: 0}
-    - target: {fileID: 3682830691519812973, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0.033260837
-      objectReference: {fileID: 0}
-    - target: {fileID: 3777018110806194295, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0.022942247
-      objectReference: {fileID: 0}
-    - target: {fileID: 3777018110806194295, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0.122834295
-      objectReference: {fileID: 0}
-    - target: {fileID: 3777018110806194295, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0.17845714
-      objectReference: {fileID: 0}
-    - target: {fileID: 3777018110806194295, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: -0.97598076
-      objectReference: {fileID: 0}
-    - target: {fileID: 3777018110806194295, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0.063259125
-      objectReference: {fileID: 0}
-    - target: {fileID: 3879565510993658366, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0.078305036
-      objectReference: {fileID: 0}
-    - target: {fileID: 3879565510993658366, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0.00947094
-      objectReference: {fileID: 0}
-    - target: {fileID: 3879565510993658366, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0.04336527
-      objectReference: {fileID: 0}
-    - target: {fileID: 3879565510993658366, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.99594086
-      objectReference: {fileID: 0}
-    - target: {fileID: 3984232173497713363, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0.015481092
-      objectReference: {fileID: 0}
-    - target: {fileID: 3984232173497713363, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0.00448037
-      objectReference: {fileID: 0}
-    - target: {fileID: 3984232173497713363, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0.0017331657
-      objectReference: {fileID: 0}
-    - target: {fileID: 3984232173497713363, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: -0.9998687
-      objectReference: {fileID: 0}
-    - target: {fileID: 4046895222675922656, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0.044776972
-      objectReference: {fileID: 0}
-    - target: {fileID: 4046895222675922656, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0.0037126238
-      objectReference: {fileID: 0}
-    - target: {fileID: 4046895222675922656, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0.0062762247
-      objectReference: {fileID: 0}
-    - target: {fileID: 4046895222675922656, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.9989704
-      objectReference: {fileID: 0}
-    - target: {fileID: 4046895222675922656, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -0.06390506
-      objectReference: {fileID: 0}
-    - target: {fileID: 4060095635214407928, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0.16175917
-      objectReference: {fileID: 0}
-    - target: {fileID: 4060095635214407928, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0.06760393
-      objectReference: {fileID: 0}
-    - target: {fileID: 4060095635214407928, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0.16099258
-      objectReference: {fileID: 0}
-    - target: {fileID: 4060095635214407928, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.9712596
-      objectReference: {fileID: 0}
-    - target: {fileID: 4060095635214407928, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -0.010741358
-      objectReference: {fileID: 0}
-    - target: {fileID: 4060095635214407928, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -0.4299634
-      objectReference: {fileID: 0}
-    - target: {fileID: 4060095635214407928, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -0.0222421
-      objectReference: {fileID: 0}
-    - target: {fileID: 4185085758002600892, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_Name
-      value: Sendagaya_Shino
-      objectReference: {fileID: 0}
-    - target: {fileID: 4385861975494188346, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0.13426504
-      objectReference: {fileID: 0}
-    - target: {fileID: 4385861975494188346, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0.013975009
-      objectReference: {fileID: 0}
-    - target: {fileID: 4385861975494188346, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0.0058409036
-      objectReference: {fileID: 0}
-    - target: {fileID: 4385861975494188346, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.99082977
-      objectReference: {fileID: 0}
-    - target: {fileID: 4385861975494188346, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0.020865474
-      objectReference: {fileID: 0}
-    - target: {fileID: 4385861975494188346, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -0.36323416
-      objectReference: {fileID: 0}
-    - target: {fileID: 4385861975494188346, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -0.006756626
-      objectReference: {fileID: 0}
-    - target: {fileID: 4556901071716207440, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_Controller
-      value: 
-      objectReference: {fileID: 9100000, guid: 88b85e6ab759242bab0779e7968a3c05, type: 2}
-    - target: {fileID: 4670376399253740806, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0.055016883
-      objectReference: {fileID: 0}
-    - target: {fileID: 4670376399253740806, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0.009913296
-      objectReference: {fileID: 0}
-    - target: {fileID: 4670376399253740806, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0.049253292
-      objectReference: {fileID: 0}
-    - target: {fileID: 4670376399253740806, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.9972207
-      objectReference: {fileID: 0}
-    - target: {fileID: 4880723664101542687, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4880723664101542687, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -0.013753381
-      objectReference: {fileID: 0}
-    - target: {fileID: 4880723664101542687, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4880723664101542687, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5088894066756488548, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0.010789473
-      objectReference: {fileID: 0}
-    - target: {fileID: 5088894066756488548, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0.1196049
-      objectReference: {fileID: 0}
-    - target: {fileID: 5088894066756488548, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0.20749824
-      objectReference: {fileID: 0}
-    - target: {fileID: 5088894066756488548, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.9708361
-      objectReference: {fileID: 0}
-    - target: {fileID: 5088894066756488548, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0.077122405
-      objectReference: {fileID: 0}
-    - target: {fileID: 5088894066756488548, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -0.03983415
-      objectReference: {fileID: 0}
-    - target: {fileID: 5088894066756488548, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -0.004170266
-      objectReference: {fileID: 0}
-    - target: {fileID: 5169930754338195392, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5169930754338195392, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5169930754338195392, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0.0000000011059456
-      objectReference: {fileID: 0}
-    - target: {fileID: 5169930754338195392, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5555120255874454022, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0.008703773
-      objectReference: {fileID: 0}
-    - target: {fileID: 5555120255874454022, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0.018260991
-      objectReference: {fileID: 0}
-    - target: {fileID: 5555120255874454022, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0.034075953
-      objectReference: {fileID: 0}
-    - target: {fileID: 5555120255874454022, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: -0.9992146
-      objectReference: {fileID: 0}
-    - target: {fileID: 5555120255874454022, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0.06610966
-      objectReference: {fileID: 0}
-    - target: {fileID: 5859178773861884247, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0.07795458
-      objectReference: {fileID: 0}
-    - target: {fileID: 5859178773861884247, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0.115509495
-      objectReference: {fileID: 0}
-    - target: {fileID: 5859178773861884247, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0.1383738
-      objectReference: {fileID: 0}
-    - target: {fileID: 5859178773861884247, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: -0.98052704
-      objectReference: {fileID: 0}
-    - target: {fileID: 6504751375952691734, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0.08160834
-      objectReference: {fileID: 0}
-    - target: {fileID: 6504751375952691734, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0.043905158
-      objectReference: {fileID: 0}
-    - target: {fileID: 6504751375952691734, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0.13040332
-      objectReference: {fileID: 0}
-    - target: {fileID: 6504751375952691734, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.9871208
-      objectReference: {fileID: 0}
-    - target: {fileID: 6504751375952691734, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0.010618917
-      objectReference: {fileID: 0}
-    - target: {fileID: 6504751375952691734, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -0.42509577
-      objectReference: {fileID: 0}
-    - target: {fileID: 6504751375952691734, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -0.021990089
-      objectReference: {fileID: 0}
-    - target: {fileID: 6723188317530882121, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0.076095484
-      objectReference: {fileID: 0}
-    - target: {fileID: 6723188317530882121, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0.1107557
-      objectReference: {fileID: 0}
-    - target: {fileID: 6723188317530882121, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0.57167566
-      objectReference: {fileID: 0}
-    - target: {fileID: 6723188317530882121, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.8094008
-      objectReference: {fileID: 0}
-    - target: {fileID: 7031799834566370560, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0.072703585
-      objectReference: {fileID: 0}
-    - target: {fileID: 7031799834566370560, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0.019597521
-      objectReference: {fileID: 0}
-    - target: {fileID: 7031799834566370560, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0.19097891
-      objectReference: {fileID: 0}
-    - target: {fileID: 7031799834566370560, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.97870183
-      objectReference: {fileID: 0}
-    - target: {fileID: 7031799834566370560, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -0.07712239
-      objectReference: {fileID: 0}
-    - target: {fileID: 7031799834566370560, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -0.0398342
-      objectReference: {fileID: 0}
-    - target: {fileID: 7031799834566370560, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -0.0041702595
-      objectReference: {fileID: 0}
-    - target: {fileID: 7037869326067330740, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7037869326067330740, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7037869326067330740, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -2.76
-      objectReference: {fileID: 0}
-    - target: {fileID: 7037869326067330740, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7037869326067330740, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 7037869326067330740, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7037869326067330740, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7037869326067330740, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_RootOrder
-      value: 8
-      objectReference: {fileID: 0}
-    - target: {fileID: 7037869326067330740, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7037869326067330740, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 180
-      objectReference: {fileID: 0}
-    - target: {fileID: 7037869326067330740, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7106119320256279304, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0.0662036
-      objectReference: {fileID: 0}
-    - target: {fileID: 7106119320256279304, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0.09012909
-      objectReference: {fileID: 0}
-    - target: {fileID: 7106119320256279304, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0.019419033
-      objectReference: {fileID: 0}
-    - target: {fileID: 7106119320256279304, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.99353755
-      objectReference: {fileID: 0}
-    - target: {fileID: 7211022907792832391, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0.003691661
-      objectReference: {fileID: 0}
-    - target: {fileID: 7211022907792832391, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0.001078032
-      objectReference: {fileID: 0}
-    - target: {fileID: 7211022907792832391, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0.000038948117
-      objectReference: {fileID: 0}
-    - target: {fileID: 7211022907792832391, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.99999267
-      objectReference: {fileID: 0}
-    - target: {fileID: 7405411038103790534, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0.008693428
-      objectReference: {fileID: 0}
-    - target: {fileID: 7405411038103790534, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0.0003698766
-      objectReference: {fileID: 0}
-    - target: {fileID: 7405411038103790534, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0.0050781146
-      objectReference: {fileID: 0}
-    - target: {fileID: 7405411038103790534, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.9999493
-      objectReference: {fileID: 0}
-    - target: {fileID: 7405411038103790534, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -0.021357715
-      objectReference: {fileID: 0}
-    - target: {fileID: 7405411038103790534, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0.018962592
-      objectReference: {fileID: 0}
-    - target: {fileID: 7424760785757565676, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0.012348157
-      objectReference: {fileID: 0}
-    - target: {fileID: 7424760785757565676, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0.00556415
-      objectReference: {fileID: 0}
-    - target: {fileID: 7424760785757565676, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0.014745841
-      objectReference: {fileID: 0}
-    - target: {fileID: 7424760785757565676, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: -0.99979955
-      objectReference: {fileID: 0}
-    - target: {fileID: 7473007069014538613, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0.00000020861623
-      objectReference: {fileID: 0}
-    - target: {fileID: 7473007069014538613, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7533724955491743351, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0.0038279947
-      objectReference: {fileID: 0}
-    - target: {fileID: 7533724955491743351, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0.0011178432
-      objectReference: {fileID: 0}
-    - target: {fileID: 7533724955491743351, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0.0121710645
-      objectReference: {fileID: 0}
-    - target: {fileID: 7533724955491743351, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.99991804
-      objectReference: {fileID: 0}
-    - target: {fileID: 7560550393321839742, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0.019332843
-      objectReference: {fileID: 0}
-    - target: {fileID: 7560550393321839742, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0.08188034
-      objectReference: {fileID: 0}
-    - target: {fileID: 7560550393321839742, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0.12845
-      objectReference: {fileID: 0}
-    - target: {fileID: 7560550393321839742, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: -0.98814094
-      objectReference: {fileID: 0}
-    - target: {fileID: 7560550393321839742, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0.06667799
-      objectReference: {fileID: 0}
-    - target: {fileID: 7666086161218067222, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7666086161218067222, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0.000000119209275
-      objectReference: {fileID: 0}
-    - target: {fileID: 7666086161218067222, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7871281700732764461, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0.052665845
-      objectReference: {fileID: 0}
-    - target: {fileID: 7871281700732764461, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0.021529721
-      objectReference: {fileID: 0}
-    - target: {fileID: 7871281700732764461, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0.61837035
-      objectReference: {fileID: 0}
-    - target: {fileID: 7871281700732764461, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.78382456
-      objectReference: {fileID: 0}
-    - target: {fileID: 8160036112967603765, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0.076157056
-      objectReference: {fileID: 0}
-    - target: {fileID: 8160036112967603765, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0.022668706
-      objectReference: {fileID: 0}
-    - target: {fileID: 8160036112967603765, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0.00252492
-      objectReference: {fileID: 0}
-    - target: {fileID: 8160036112967603765, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.996835
-      objectReference: {fileID: 0}
-    - target: {fileID: 8160036112967603765, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -0.021104835
-      objectReference: {fileID: 0}
-    - target: {fileID: 8160036112967603765, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -0.3673934
-      objectReference: {fileID: 0}
-    - target: {fileID: 8160036112967603765, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -0.006833883
-      objectReference: {fileID: 0}
-    - target: {fileID: 8303679381582216510, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0.033378668
-      objectReference: {fileID: 0}
-    - target: {fileID: 8303679381582216510, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0.0122389225
-      objectReference: {fileID: 0}
-    - target: {fileID: 8303679381582216510, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0.0020213793
-      objectReference: {fileID: 0}
-    - target: {fileID: 8303679381582216510, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.9993658
-      objectReference: {fileID: 0}
-    - target: {fileID: 8401881169797006145, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0.07710901
-      objectReference: {fileID: 0}
-    - target: {fileID: 8401881169797006145, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0.10992831
-      objectReference: {fileID: 0}
-    - target: {fileID: 8401881169797006145, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0.13867895
-      objectReference: {fileID: 0}
-    - target: {fileID: 8401881169797006145, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.98119223
-      objectReference: {fileID: 0}
-    - target: {fileID: 8645963897842421538, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0.057454277
-      objectReference: {fileID: 0}
-    - target: {fileID: 8645963897842421538, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0.10109233
-      objectReference: {fileID: 0}
-    - target: {fileID: 8645963897842421538, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0.11704536
-      objectReference: {fileID: 0}
-    - target: {fileID: 8645963897842421538, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.986296
-      objectReference: {fileID: 0}
-    - target: {fileID: 8645963897842421538, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0.21357355
-      objectReference: {fileID: 0}
-    - target: {fileID: 8668758369085714633, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0.0038293046
-      objectReference: {fileID: 0}
-    - target: {fileID: 8668758369085714633, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0.0011182032
-      objectReference: {fileID: 0}
-    - target: {fileID: 8668758369085714633, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0.012177532
-      objectReference: {fileID: 0}
-    - target: {fileID: 8668758369085714633, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: -0.9999179
-      objectReference: {fileID: 0}
-    - target: {fileID: 8759734141063892582, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0.0118041085
-      objectReference: {fileID: 0}
-    - target: {fileID: 8759734141063892582, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0.005319315
-      objectReference: {fileID: 0}
-    - target: {fileID: 8759734141063892582, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0.0004709002
-      objectReference: {fileID: 0}
-    - target: {fileID: 8759734141063892582, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.9999161
-      objectReference: {fileID: 0}
-    - target: {fileID: 9201156830565882683, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0.15100574
-      objectReference: {fileID: 0}
-    - target: {fileID: 9201156830565882683, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0.014460579
-      objectReference: {fileID: 0}
-    - target: {fileID: 9201156830565882683, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0.051127613
-      objectReference: {fileID: 0}
-    - target: {fileID: 9201156830565882683, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.98710394
-      objectReference: {fileID: 0}
-    - target: {fileID: 9201156830565882683, guid: 9679dcc88213f401580a3d223687beae,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0.014169317
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 9679dcc88213f401580a3d223687beae, type: 3}
 --- !u!1 &752381998
 GameObject:
   m_ObjectHideFlags: 0
@@ -2425,294 +1131,6 @@ RectTransform:
   m_AnchoredPosition: {x: -240, y: -100}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!1 &913256001 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 4185085758002600892, guid: 9679dcc88213f401580a3d223687beae,
-    type: 3}
-  m_PrefabInstance: {fileID: 734026639}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &913256002
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 913256001}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 246455474a0d74a4291b3cedc896ebdf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  bonePaths:
-  - 
-  - Face
-  - Body
-  - Root
-  - Root/J_Bip_C_Hips
-  - Root/J_Bip_C_Hips/J_Sec_L_SkirtSide0
-  - Root/J_Bip_C_Hips/J_Sec_L_SkirtSide0/J_Sec_L_SkirtSide1
-  - Root/J_Bip_C_Hips/J_Sec_L_SkirtSide0/J_Sec_L_SkirtSide1/J_Sec_L_SkirtSide2
-  - Root/J_Bip_C_Hips/J_Sec_L_SkirtSide0/J_Sec_L_SkirtSide1/J_Sec_L_SkirtSide2/J_Sec_L_SkirtSide2_end
-  - Root/J_Bip_C_Hips/J_Sec_R_SkirtSide0
-  - Root/J_Bip_C_Hips/J_Sec_R_SkirtSide0/J_Sec_R_SkirtSide1
-  - Root/J_Bip_C_Hips/J_Sec_R_SkirtSide0/J_Sec_R_SkirtSide1/J_Sec_R_SkirtSide2
-  - Root/J_Bip_C_Hips/J_Sec_R_SkirtSide0/J_Sec_R_SkirtSide1/J_Sec_R_SkirtSide2/J_Sec_R_SkirtSide2_end
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Sec_L_Bust1
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Sec_L_Bust1/J_Sec_L_Bust2
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Sec_R_Bust1
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Sec_R_Bust1/J_Sec_R_Bust2
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/J_Adj_L_FaceEye
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/J_Adj_R_FaceEye
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-1906a1ce-1b58-4a73-8500-32a1e759a35c
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-1906a1ce-1b58-4a73-8500-32a1e759a35c/HairJoint-f0b7c795-5106-4fab-beb9-c0f895e88a89
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-1906a1ce-1b58-4a73-8500-32a1e759a35c/HairJoint-f0b7c795-5106-4fab-beb9-c0f895e88a89/HairJoint-b46fdffa-a53f-4076-83e4-7a50dcb8234f
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-1906a1ce-1b58-4a73-8500-32a1e759a35c/HairJoint-f0b7c795-5106-4fab-beb9-c0f895e88a89/HairJoint-b46fdffa-a53f-4076-83e4-7a50dcb8234f/HairJoint-38cdccb9-4500-49c5-8a0d-def1e7c03f3a
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-0d9961ed-f925-45ac-b491-6815dbb9da79
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-0d9961ed-f925-45ac-b491-6815dbb9da79/HairJoint-4b19ab6e-33be-4ff7-9048-3e528cf52d76
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-0d9961ed-f925-45ac-b491-6815dbb9da79/HairJoint-4b19ab6e-33be-4ff7-9048-3e528cf52d76/HairJoint-93451e85-eaf6-49cf-bea7-11e9b1b1d0bc
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-b6d75a88-8b98-4f07-9970-2e20ae497072
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-b6d75a88-8b98-4f07-9970-2e20ae497072/HairJoint-ea9b0d11-3499-419f-b9ed-4e7c4f789a18
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-b6d75a88-8b98-4f07-9970-2e20ae497072/HairJoint-ea9b0d11-3499-419f-b9ed-4e7c4f789a18/HairJoint-f11d0e77-af7d-4089-92fd-77f6fc09ef15
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-40bf39dd-d75d-44d7-a3f8-400ac041517f
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-40bf39dd-d75d-44d7-a3f8-400ac041517f/HairJoint-1c4c06f4-799d-407a-a632-c5135e23387f
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-40bf39dd-d75d-44d7-a3f8-400ac041517f/HairJoint-1c4c06f4-799d-407a-a632-c5135e23387f/HairJoint-ebd652d7-9c7a-4991-a7b5-1541d3b62fa9
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-15cbe406-4099-45b5-856c-8c5abbdadeef
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-15cbe406-4099-45b5-856c-8c5abbdadeef/HairJoint-aabbd2b4-0b1a-449e-a67c-282631e03201
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-15cbe406-4099-45b5-856c-8c5abbdadeef/HairJoint-aabbd2b4-0b1a-449e-a67c-282631e03201/HairJoint-0ce90ef2-aa02-4999-a9bb-d879a378bb21
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-60421b4c-bee2-4d6b-8ff9-a2cc1da1bea4
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-60421b4c-bee2-4d6b-8ff9-a2cc1da1bea4/HairJoint-1b387e37-081e-4fbe-8dd9-7d85bb0ad3ed
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-60421b4c-bee2-4d6b-8ff9-a2cc1da1bea4/HairJoint-1b387e37-081e-4fbe-8dd9-7d85bb0ad3ed/HairJoint-54c37321-c7aa-433d-928c-7444e829c2b9
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-028f7d9a-b8a4-4d92-b7c6-bcf3a0f01695
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-028f7d9a-b8a4-4d92-b7c6-bcf3a0f01695/HairJoint-84ada00a-a986-4cea-87cf-9c0f68b18a7b
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-028f7d9a-b8a4-4d92-b7c6-bcf3a0f01695/HairJoint-84ada00a-a986-4cea-87cf-9c0f68b18a7b/HairJoint-331be3ba-f4ac-4b44-ba0f-fbabc5e08355
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-ec053d53-1f0e-461d-92d1-b15ce5b0440b
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-ec053d53-1f0e-461d-92d1-b15ce5b0440b/HairJoint-31d1f4de-c7b3-470d-80bc-d01bf2b2f3cc
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-ec053d53-1f0e-461d-92d1-b15ce5b0440b/HairJoint-31d1f4de-c7b3-470d-80bc-d01bf2b2f3cc/HairJoint-0c658cdc-553a-4463-943c-6e29211baf25
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-b47a78b7-5d12-4c93-b611-8522faa11860
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-b47a78b7-5d12-4c93-b611-8522faa11860/HairJoint-d08f744f-718c-4a2d-9d01-9d4703e10bb3
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-b47a78b7-5d12-4c93-b611-8522faa11860/HairJoint-d08f744f-718c-4a2d-9d01-9d4703e10bb3/HairJoint-ca96780f-32c3-421c-9f5e-5da67a97a66d
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-b47a78b7-5d12-4c93-b611-8522faa11860/HairJoint-d08f744f-718c-4a2d-9d01-9d4703e10bb3/HairJoint-ca96780f-32c3-421c-9f5e-5da67a97a66d/HairJoint-50f8bae7-fb88-4a40-ba0c-6b9ac256457f
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-b47a78b7-5d12-4c93-b611-8522faa11860/HairJoint-d08f744f-718c-4a2d-9d01-9d4703e10bb3/HairJoint-ca96780f-32c3-421c-9f5e-5da67a97a66d/HairJoint-50f8bae7-fb88-4a40-ba0c-6b9ac256457f/HairJoint-adec11db-72d9-4ee5-9d13-21501122b31d
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-b47a78b7-5d12-4c93-b611-8522faa11860/HairJoint-d08f744f-718c-4a2d-9d01-9d4703e10bb3/HairJoint-ca96780f-32c3-421c-9f5e-5da67a97a66d/HairJoint-50f8bae7-fb88-4a40-ba0c-6b9ac256457f/HairJoint-adec11db-72d9-4ee5-9d13-21501122b31d/HairJoint-fb2f6c7c-94cf-4cf3-832b-257007f99c70
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-b47a78b7-5d12-4c93-b611-8522faa11860/HairJoint-d08f744f-718c-4a2d-9d01-9d4703e10bb3/HairJoint-ca96780f-32c3-421c-9f5e-5da67a97a66d/HairJoint-50f8bae7-fb88-4a40-ba0c-6b9ac256457f/HairJoint-adec11db-72d9-4ee5-9d13-21501122b31d/HairJoint-fb2f6c7c-94cf-4cf3-832b-257007f99c70/HairJoint-986849f0-0394-4f7d-a20e-f45e992ce63d
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-d89208f3-3830-47fb-bc1c-a064cec35a18
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-d89208f3-3830-47fb-bc1c-a064cec35a18/HairJoint-1f501bdd-986c-41f2-9e3d-be318408450e
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-d89208f3-3830-47fb-bc1c-a064cec35a18/HairJoint-1f501bdd-986c-41f2-9e3d-be318408450e/HairJoint-322d03dd-2ad4-45ef-bef1-2172c7b4af0d
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-d89208f3-3830-47fb-bc1c-a064cec35a18/HairJoint-1f501bdd-986c-41f2-9e3d-be318408450e/HairJoint-322d03dd-2ad4-45ef-bef1-2172c7b4af0d/HairJoint-d7d24428-65d9-40d8-a3be-86d09e87d633
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-d89208f3-3830-47fb-bc1c-a064cec35a18/HairJoint-1f501bdd-986c-41f2-9e3d-be318408450e/HairJoint-322d03dd-2ad4-45ef-bef1-2172c7b4af0d/HairJoint-d7d24428-65d9-40d8-a3be-86d09e87d633/HairJoint-bfc0a0dc-2de6-40f8-ad96-79615fa1817d
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-d89208f3-3830-47fb-bc1c-a064cec35a18/HairJoint-1f501bdd-986c-41f2-9e3d-be318408450e/HairJoint-322d03dd-2ad4-45ef-bef1-2172c7b4af0d/HairJoint-d7d24428-65d9-40d8-a3be-86d09e87d633/HairJoint-bfc0a0dc-2de6-40f8-ad96-79615fa1817d/HairJoint-9e951200-9c36-4f68-81d7-872a722c40bb
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-5e784232-233f-4061-8194-8f591be00b81
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-5e784232-233f-4061-8194-8f591be00b81/HairJoint-51d33840-0f98-4d36-a192-5faae8750315
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-5e784232-233f-4061-8194-8f591be00b81/HairJoint-51d33840-0f98-4d36-a192-5faae8750315/HairJoint-74713f61-9349-436f-a5f9-431329c8448c
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-5e784232-233f-4061-8194-8f591be00b81/HairJoint-51d33840-0f98-4d36-a192-5faae8750315/HairJoint-74713f61-9349-436f-a5f9-431329c8448c/HairJoint-32ea4f94-ae34-4479-ac13-9cf6d719ad68
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-5e784232-233f-4061-8194-8f591be00b81/HairJoint-51d33840-0f98-4d36-a192-5faae8750315/HairJoint-74713f61-9349-436f-a5f9-431329c8448c/HairJoint-32ea4f94-ae34-4479-ac13-9cf6d719ad68/HairJoint-fcefea6d-e9ac-4076-98b1-ac9bb9a3e3c7
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-5e784232-233f-4061-8194-8f591be00b81/HairJoint-51d33840-0f98-4d36-a192-5faae8750315/HairJoint-74713f61-9349-436f-a5f9-431329c8448c/HairJoint-32ea4f94-ae34-4479-ac13-9cf6d719ad68/HairJoint-fcefea6d-e9ac-4076-98b1-ac9bb9a3e3c7/HairJoint-57df0d23-f4d6-4791-83f7-17c36fc4ff02
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-a37fc5ef-4292-4cd9-806e-bd3ea7c61ff8
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-a37fc5ef-4292-4cd9-806e-bd3ea7c61ff8/HairJoint-5a957a85-fc75-4a79-a6a6-dc8c1cafbf53
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-a37fc5ef-4292-4cd9-806e-bd3ea7c61ff8/HairJoint-5a957a85-fc75-4a79-a6a6-dc8c1cafbf53/HairJoint-a348fae2-b1db-440b-abbe-a7a43acf651b
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-a37fc5ef-4292-4cd9-806e-bd3ea7c61ff8/HairJoint-5a957a85-fc75-4a79-a6a6-dc8c1cafbf53/HairJoint-a348fae2-b1db-440b-abbe-a7a43acf651b/HairJoint-433887c8-cb8b-4b9d-a5a2-833927dcccd3
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-a37fc5ef-4292-4cd9-806e-bd3ea7c61ff8/HairJoint-5a957a85-fc75-4a79-a6a6-dc8c1cafbf53/HairJoint-a348fae2-b1db-440b-abbe-a7a43acf651b/HairJoint-433887c8-cb8b-4b9d-a5a2-833927dcccd3/HairJoint-75e1bc5b-f4a6-4198-8b00-caa3ded05733
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-17dd99c0-b8b4-401e-8479-b7feae55acc4
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-17dd99c0-b8b4-401e-8479-b7feae55acc4/HairJoint-e619f702-8b6a-4d41-87d6-b17b67b95405
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-17dd99c0-b8b4-401e-8479-b7feae55acc4/HairJoint-e619f702-8b6a-4d41-87d6-b17b67b95405/HairJoint-8e6ca9df-89f3-41b0-a20d-9af041e86b9e
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-17dd99c0-b8b4-401e-8479-b7feae55acc4/HairJoint-e619f702-8b6a-4d41-87d6-b17b67b95405/HairJoint-8e6ca9df-89f3-41b0-a20d-9af041e86b9e/HairJoint-277c83d4-a7e9-4da6-883b-c7ace71aacd5
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-17dd99c0-b8b4-401e-8479-b7feae55acc4/HairJoint-e619f702-8b6a-4d41-87d6-b17b67b95405/HairJoint-8e6ca9df-89f3-41b0-a20d-9af041e86b9e/HairJoint-277c83d4-a7e9-4da6-883b-c7ace71aacd5/HairJoint-827c4fac-d0a9-497e-9b16-99c6e9bc2a09
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-795840ac-cc55-4cb0-ab5f-81c16bf834df
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-795840ac-cc55-4cb0-ab5f-81c16bf834df/HairJoint-7a327e31-72de-4128-9eb3-10a73f13016d
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-795840ac-cc55-4cb0-ab5f-81c16bf834df/HairJoint-7a327e31-72de-4128-9eb3-10a73f13016d/HairJoint-ada6194d-3d07-4810-950f-732756e3d330
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-795840ac-cc55-4cb0-ab5f-81c16bf834df/HairJoint-7a327e31-72de-4128-9eb3-10a73f13016d/HairJoint-ada6194d-3d07-4810-950f-732756e3d330/HairJoint-18025069-f981-4979-9662-46df16d897e6
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-795840ac-cc55-4cb0-ab5f-81c16bf834df/HairJoint-7a327e31-72de-4128-9eb3-10a73f13016d/HairJoint-ada6194d-3d07-4810-950f-732756e3d330/HairJoint-18025069-f981-4979-9662-46df16d897e6/HairJoint-e77bf0e4-a6fb-403b-85cd-3ff552a703d7
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-0070fd8e-1d1d-4216-a5a2-df0d52726bc6
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-0070fd8e-1d1d-4216-a5a2-df0d52726bc6/HairJoint-7b6e01d4-c7ef-49fa-b525-4cc9c68f8a65
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-0070fd8e-1d1d-4216-a5a2-df0d52726bc6/HairJoint-7b6e01d4-c7ef-49fa-b525-4cc9c68f8a65/HairJoint-fecd8a29-178d-473e-9424-6adaa3d16907
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-0070fd8e-1d1d-4216-a5a2-df0d52726bc6/HairJoint-7b6e01d4-c7ef-49fa-b525-4cc9c68f8a65/HairJoint-fecd8a29-178d-473e-9424-6adaa3d16907/HairJoint-ac5d02cc-38cd-4155-838f-640d26291f5b
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_L_Shoulder
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_L_Shoulder/J_Bip_L_UpperArm
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_L_Shoulder/J_Bip_L_UpperArm/J_Bip_L_LowerArm
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_L_Shoulder/J_Bip_L_UpperArm/J_Bip_L_LowerArm/J_Sec_L_LowerSleeve
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_L_Shoulder/J_Bip_L_UpperArm/J_Bip_L_LowerArm/J_Sec_L_LowerSleeve/J_Sec_L_LowerSleeve_end
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_L_Shoulder/J_Bip_L_UpperArm/J_Bip_L_LowerArm/J_Bip_L_Hand
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_L_Shoulder/J_Bip_L_UpperArm/J_Bip_L_LowerArm/J_Bip_L_Hand/J_Bip_L_Index1
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_L_Shoulder/J_Bip_L_UpperArm/J_Bip_L_LowerArm/J_Bip_L_Hand/J_Bip_L_Index1/J_Bip_L_Index2
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_L_Shoulder/J_Bip_L_UpperArm/J_Bip_L_LowerArm/J_Bip_L_Hand/J_Bip_L_Index1/J_Bip_L_Index2/J_Bip_L_Index3
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_L_Shoulder/J_Bip_L_UpperArm/J_Bip_L_LowerArm/J_Bip_L_Hand/J_Bip_L_Index1/J_Bip_L_Index2/J_Bip_L_Index3/J_Bip_L_Index3_end
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_L_Shoulder/J_Bip_L_UpperArm/J_Bip_L_LowerArm/J_Bip_L_Hand/J_Bip_L_Little1
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_L_Shoulder/J_Bip_L_UpperArm/J_Bip_L_LowerArm/J_Bip_L_Hand/J_Bip_L_Little1/J_Bip_L_Little2
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_L_Shoulder/J_Bip_L_UpperArm/J_Bip_L_LowerArm/J_Bip_L_Hand/J_Bip_L_Little1/J_Bip_L_Little2/J_Bip_L_Little3
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_L_Shoulder/J_Bip_L_UpperArm/J_Bip_L_LowerArm/J_Bip_L_Hand/J_Bip_L_Little1/J_Bip_L_Little2/J_Bip_L_Little3/J_Bip_L_Little3_end
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_L_Shoulder/J_Bip_L_UpperArm/J_Bip_L_LowerArm/J_Bip_L_Hand/J_Bip_L_Middle1
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_L_Shoulder/J_Bip_L_UpperArm/J_Bip_L_LowerArm/J_Bip_L_Hand/J_Bip_L_Middle1/J_Bip_L_Middle2
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_L_Shoulder/J_Bip_L_UpperArm/J_Bip_L_LowerArm/J_Bip_L_Hand/J_Bip_L_Middle1/J_Bip_L_Middle2/J_Bip_L_Middle3
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_L_Shoulder/J_Bip_L_UpperArm/J_Bip_L_LowerArm/J_Bip_L_Hand/J_Bip_L_Middle1/J_Bip_L_Middle2/J_Bip_L_Middle3/J_Bip_L_Middle3_end
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_L_Shoulder/J_Bip_L_UpperArm/J_Bip_L_LowerArm/J_Bip_L_Hand/J_Bip_L_Ring1
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_L_Shoulder/J_Bip_L_UpperArm/J_Bip_L_LowerArm/J_Bip_L_Hand/J_Bip_L_Ring1/J_Bip_L_Ring2
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_L_Shoulder/J_Bip_L_UpperArm/J_Bip_L_LowerArm/J_Bip_L_Hand/J_Bip_L_Ring1/J_Bip_L_Ring2/J_Bip_L_Ring3
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_L_Shoulder/J_Bip_L_UpperArm/J_Bip_L_LowerArm/J_Bip_L_Hand/J_Bip_L_Ring1/J_Bip_L_Ring2/J_Bip_L_Ring3/J_Bip_L_Ring3_end
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_L_Shoulder/J_Bip_L_UpperArm/J_Bip_L_LowerArm/J_Bip_L_Hand/J_Bip_L_Thumb1
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_L_Shoulder/J_Bip_L_UpperArm/J_Bip_L_LowerArm/J_Bip_L_Hand/J_Bip_L_Thumb1/J_Bip_L_Thumb2
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_L_Shoulder/J_Bip_L_UpperArm/J_Bip_L_LowerArm/J_Bip_L_Hand/J_Bip_L_Thumb1/J_Bip_L_Thumb2/J_Bip_L_Thumb3
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_L_Shoulder/J_Bip_L_UpperArm/J_Bip_L_LowerArm/J_Bip_L_Hand/J_Bip_L_Thumb1/J_Bip_L_Thumb2/J_Bip_L_Thumb3/J_Bip_L_Thumb3_end
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_L_Shoulder/J_Bip_L_UpperArm/J_Bip_L_LowerArm/J_Bip_L_Hand/J_Sec_L_TipSleeve
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_L_Shoulder/J_Bip_L_UpperArm/J_Bip_L_LowerArm/J_Bip_L_Hand/J_Sec_L_TipSleeve/J_Sec_L_TipSleeve_end
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_R_Shoulder
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_R_Shoulder/J_Bip_R_UpperArm
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_R_Shoulder/J_Bip_R_UpperArm/J_Bip_R_LowerArm
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_R_Shoulder/J_Bip_R_UpperArm/J_Bip_R_LowerArm/J_Sec_R_LowerSleeve
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_R_Shoulder/J_Bip_R_UpperArm/J_Bip_R_LowerArm/J_Sec_R_LowerSleeve/J_Sec_R_LowerSleeve_end
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_R_Shoulder/J_Bip_R_UpperArm/J_Bip_R_LowerArm/J_Bip_R_Hand
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_R_Shoulder/J_Bip_R_UpperArm/J_Bip_R_LowerArm/J_Bip_R_Hand/J_Bip_R_Index1
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_R_Shoulder/J_Bip_R_UpperArm/J_Bip_R_LowerArm/J_Bip_R_Hand/J_Bip_R_Index1/J_Bip_R_Index2
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_R_Shoulder/J_Bip_R_UpperArm/J_Bip_R_LowerArm/J_Bip_R_Hand/J_Bip_R_Index1/J_Bip_R_Index2/J_Bip_R_Index3
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_R_Shoulder/J_Bip_R_UpperArm/J_Bip_R_LowerArm/J_Bip_R_Hand/J_Bip_R_Index1/J_Bip_R_Index2/J_Bip_R_Index3/J_Bip_R_Index3_end
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_R_Shoulder/J_Bip_R_UpperArm/J_Bip_R_LowerArm/J_Bip_R_Hand/J_Bip_R_Little1
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_R_Shoulder/J_Bip_R_UpperArm/J_Bip_R_LowerArm/J_Bip_R_Hand/J_Bip_R_Little1/J_Bip_R_Little2
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_R_Shoulder/J_Bip_R_UpperArm/J_Bip_R_LowerArm/J_Bip_R_Hand/J_Bip_R_Little1/J_Bip_R_Little2/J_Bip_R_Little3
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_R_Shoulder/J_Bip_R_UpperArm/J_Bip_R_LowerArm/J_Bip_R_Hand/J_Bip_R_Little1/J_Bip_R_Little2/J_Bip_R_Little3/J_Bip_R_Little3_end
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_R_Shoulder/J_Bip_R_UpperArm/J_Bip_R_LowerArm/J_Bip_R_Hand/J_Bip_R_Middle1
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_R_Shoulder/J_Bip_R_UpperArm/J_Bip_R_LowerArm/J_Bip_R_Hand/J_Bip_R_Middle1/J_Bip_R_Middle2
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_R_Shoulder/J_Bip_R_UpperArm/J_Bip_R_LowerArm/J_Bip_R_Hand/J_Bip_R_Middle1/J_Bip_R_Middle2/J_Bip_R_Middle3
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_R_Shoulder/J_Bip_R_UpperArm/J_Bip_R_LowerArm/J_Bip_R_Hand/J_Bip_R_Middle1/J_Bip_R_Middle2/J_Bip_R_Middle3/J_Bip_R_Middle3_end
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_R_Shoulder/J_Bip_R_UpperArm/J_Bip_R_LowerArm/J_Bip_R_Hand/J_Bip_R_Ring1
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_R_Shoulder/J_Bip_R_UpperArm/J_Bip_R_LowerArm/J_Bip_R_Hand/J_Bip_R_Ring1/J_Bip_R_Ring2
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_R_Shoulder/J_Bip_R_UpperArm/J_Bip_R_LowerArm/J_Bip_R_Hand/J_Bip_R_Ring1/J_Bip_R_Ring2/J_Bip_R_Ring3
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_R_Shoulder/J_Bip_R_UpperArm/J_Bip_R_LowerArm/J_Bip_R_Hand/J_Bip_R_Ring1/J_Bip_R_Ring2/J_Bip_R_Ring3/J_Bip_R_Ring3_end
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_R_Shoulder/J_Bip_R_UpperArm/J_Bip_R_LowerArm/J_Bip_R_Hand/J_Bip_R_Thumb1
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_R_Shoulder/J_Bip_R_UpperArm/J_Bip_R_LowerArm/J_Bip_R_Hand/J_Bip_R_Thumb1/J_Bip_R_Thumb2
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_R_Shoulder/J_Bip_R_UpperArm/J_Bip_R_LowerArm/J_Bip_R_Hand/J_Bip_R_Thumb1/J_Bip_R_Thumb2/J_Bip_R_Thumb3
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_R_Shoulder/J_Bip_R_UpperArm/J_Bip_R_LowerArm/J_Bip_R_Hand/J_Bip_R_Thumb1/J_Bip_R_Thumb2/J_Bip_R_Thumb3/J_Bip_R_Thumb3_end
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_R_Shoulder/J_Bip_R_UpperArm/J_Bip_R_LowerArm/J_Bip_R_Hand/J_Sec_R_TipSleeve
-  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_R_Shoulder/J_Bip_R_UpperArm/J_Bip_R_LowerArm/J_Bip_R_Hand/J_Sec_R_TipSleeve/J_Sec_R_TipSleeve_end
-  - Root/J_Bip_C_Hips/J_Bip_L_UpperLeg
-  - Root/J_Bip_C_Hips/J_Bip_L_UpperLeg/J_Sec_L_SkirtBack0
-  - Root/J_Bip_C_Hips/J_Bip_L_UpperLeg/J_Sec_L_SkirtBack0/J_Sec_L_SkirtBack1
-  - Root/J_Bip_C_Hips/J_Bip_L_UpperLeg/J_Sec_L_SkirtBack0/J_Sec_L_SkirtBack1/J_Sec_L_SkirtBack2
-  - Root/J_Bip_C_Hips/J_Bip_L_UpperLeg/J_Sec_L_SkirtBack0/J_Sec_L_SkirtBack1/J_Sec_L_SkirtBack2/J_Sec_L_SkirtBack2_end
-  - Root/J_Bip_C_Hips/J_Bip_L_UpperLeg/J_Sec_L_SkirtFront0
-  - Root/J_Bip_C_Hips/J_Bip_L_UpperLeg/J_Sec_L_SkirtFront0/J_Sec_L_SkirtFront1
-  - Root/J_Bip_C_Hips/J_Bip_L_UpperLeg/J_Sec_L_SkirtFront0/J_Sec_L_SkirtFront1/J_Sec_L_SkirtFront2
-  - Root/J_Bip_C_Hips/J_Bip_L_UpperLeg/J_Sec_L_SkirtFront0/J_Sec_L_SkirtFront1/J_Sec_L_SkirtFront2/J_Sec_L_SkirtFront2_end
-  - Root/J_Bip_C_Hips/J_Bip_L_UpperLeg/J_Bip_L_LowerLeg
-  - Root/J_Bip_C_Hips/J_Bip_L_UpperLeg/J_Bip_L_LowerLeg/J_Bip_L_Foot
-  - Root/J_Bip_C_Hips/J_Bip_L_UpperLeg/J_Bip_L_LowerLeg/J_Bip_L_Foot/J_Bip_L_ToeBase
-  - Root/J_Bip_C_Hips/J_Bip_L_UpperLeg/J_Bip_L_LowerLeg/J_Bip_L_Foot/J_Bip_L_ToeBase/J_Bip_L_ToeBase_end
-  - Root/J_Bip_C_Hips/J_Bip_R_UpperLeg
-  - Root/J_Bip_C_Hips/J_Bip_R_UpperLeg/J_Sec_R_SkirtBack0
-  - Root/J_Bip_C_Hips/J_Bip_R_UpperLeg/J_Sec_R_SkirtBack0/J_Sec_R_SkirtBack1
-  - Root/J_Bip_C_Hips/J_Bip_R_UpperLeg/J_Sec_R_SkirtBack0/J_Sec_R_SkirtBack1/J_Sec_R_SkirtBack2
-  - Root/J_Bip_C_Hips/J_Bip_R_UpperLeg/J_Sec_R_SkirtBack0/J_Sec_R_SkirtBack1/J_Sec_R_SkirtBack2/J_Sec_R_SkirtBack2_end
-  - Root/J_Bip_C_Hips/J_Bip_R_UpperLeg/J_Sec_R_SkirtFront0
-  - Root/J_Bip_C_Hips/J_Bip_R_UpperLeg/J_Sec_R_SkirtFront0/J_Sec_R_SkirtFront1
-  - Root/J_Bip_C_Hips/J_Bip_R_UpperLeg/J_Sec_R_SkirtFront0/J_Sec_R_SkirtFront1/J_Sec_R_SkirtFront2
-  - Root/J_Bip_C_Hips/J_Bip_R_UpperLeg/J_Sec_R_SkirtFront0/J_Sec_R_SkirtFront1/J_Sec_R_SkirtFront2/J_Sec_R_SkirtFront2_end
-  - Root/J_Bip_C_Hips/J_Bip_R_UpperLeg/J_Bip_R_LowerLeg
-  - Root/J_Bip_C_Hips/J_Bip_R_UpperLeg/J_Bip_R_LowerLeg/J_Bip_R_Foot
-  - Root/J_Bip_C_Hips/J_Bip_R_UpperLeg/J_Bip_R_LowerLeg/J_Bip_R_Foot/J_Bip_R_ToeBase
-  - Root/J_Bip_C_Hips/J_Bip_R_UpperLeg/J_Bip_R_LowerLeg/J_Bip_R_Foot/J_Bip_R_ToeBase/J_Bip_R_ToeBase_end
-  - Hairs
-  - Hairs/Hair001
-  - secondary
-  showBones: 000000000d0000000e0000000f00000014000000150000005700000058000000590000005c000000730000007400000075000000780000008f00000098000000990000009a0000009c000000a5000000a6000000a7000000
-  foldoutBones: 870000006b000000830000006f0000007b0000007f0000005f0000008b000000630000006700000066000000360000005e0000006a0000007e0000008a0000007a00000082000000860000006e000000620000006d00000035000000850000003c00000089000000810000005d0000007d000000a700000042000000690000006100000065000000790000009a000000a30000003b00000041000000470000009f00000099000000960000004c000000a60000000b000000510000003400000092000000070000000e0000004b000000710000000a00000050000000a50000005900000076000000940000009e0000005a000000100000005800000090000000120000000600000057000000a2000000460000007500000098000000950000001a00000040000000740000005c0000003a000000a10000003300000055000000910000009d00000078000000730000008d00000026000000090000000d0000003f0000008f00000045000000190000004f0000009c0000000f00000054000000230000001d000000050000002c0000002f000000200000002900000039000000320000004a000000220000001800000053000000440000001c00000038000000490000004e00000014000000310000002e0000003e0000001f0000002500000028000000040000002b0000001500000003000000a900000000000000
-  mirrorBones: ffffffffffffffffffffffffffffffffffffffff090000000a0000000b0000000c00000005000000060000000700000008000000ffffffffffffffffffffffff12000000130000001000000011000000ffffffffffffffff1700000016000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f0000007000000071000000720000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a80000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b000000ffffffffffffffffffffffff
-  mirrorBlendShape:
-  - renderer: {fileID: 1403253265}
-    names:
-    - Face.M_F00_000_00_Fcl_EYE_Close_R
-    - Face.M_F00_000_00_Fcl_EYE_Close_L
-    - Face.M_F00_000_00_Fcl_EYE_Joy_R
-    - Face.M_F00_000_00_Fcl_EYE_Joy_L
-    - Face.M_F00_000_00_Fcl_MTH_SkinFung_R
-    - Face.M_F00_000_00_Fcl_MTH_SkinFung_L
-    mirrorNames:
-    - Face.M_F00_000_00_Fcl_EYE_Close_L
-    - Face.M_F00_000_00_Fcl_EYE_Close_R
-    - Face.M_F00_000_00_Fcl_EYE_Joy_L
-    - Face.M_F00_000_00_Fcl_EYE_Joy_R
-    - Face.M_F00_000_00_Fcl_MTH_SkinFung_L
-    - Face.M_F00_000_00_Fcl_MTH_SkinFung_R
-  animatorIkData:
-  - enable: 0
-    _fixed: 0
-    autoRotation: 0
-    spaceType: 0
-    parent: {fileID: 0}
-    position: {x: 0, y: 0, z: 0}
-    rotation: {x: 0, y: 0, z: 0, w: 0}
-    target: {fileID: 0}
-    offset: {x: 0, y: 0, z: 0}
-    headWeight: 1
-    eyesWeight: 0
-    swivelRotation: 0
-    swivelPosition: {x: 0, y: 0, z: 0}
-  - enable: 0
-    _fixed: 0
-    autoRotation: 0
-    spaceType: 0
-    parent: {fileID: 0}
-    position: {x: 0, y: 0, z: 0}
-    rotation: {x: 0, y: 0, z: 0, w: 0}
-    target: {fileID: 0}
-    offset: {x: 0, y: 0, z: 0}
-    headWeight: 1
-    eyesWeight: 0
-    swivelRotation: 0
-    swivelPosition: {x: 0, y: 0, z: 0}
-  - enable: 0
-    _fixed: 0
-    autoRotation: 0
-    spaceType: 0
-    parent: {fileID: 0}
-    position: {x: 0, y: 0, z: 0}
-    rotation: {x: 0, y: 0, z: 0, w: 0}
-    target: {fileID: 0}
-    offset: {x: 0, y: 0, z: 0}
-    headWeight: 1
-    eyesWeight: 0
-    swivelRotation: 0
-    swivelPosition: {x: 0, y: 0, z: 0}
-  - enable: 0
-    _fixed: 0
-    autoRotation: 0
-    spaceType: 0
-    parent: {fileID: 0}
-    position: {x: 0, y: 0, z: 0}
-    rotation: {x: 0, y: 0, z: 0, w: 0}
-    target: {fileID: 0}
-    offset: {x: 0, y: 0, z: 0}
-    headWeight: 1
-    eyesWeight: 0
-    swivelRotation: 0
-    swivelPosition: {x: 0, y: 0, z: 0}
-  - enable: 0
-    _fixed: 0
-    autoRotation: 0
-    spaceType: 0
-    parent: {fileID: 0}
-    position: {x: 0, y: 0, z: 0}
-    rotation: {x: 0, y: 0, z: 0, w: 0}
-    target: {fileID: 0}
-    offset: {x: 0, y: 0, z: 0}
-    headWeight: 1
-    eyesWeight: 0
-    swivelRotation: 0
-    swivelPosition: {x: 0, y: 0, z: 0}
-  originalIkData: []
-  selectionData: []
-  lastSelectAnimationClip: {fileID: 7400000, guid: 43ed17f25ee634c9f96c5ff615cfe503,
-    type: 2}
-  handPoseList: []
-  blendShapeList: []
---- !u!95 &913256006 stripped
-Animator:
-  m_CorrespondingSourceObject: {fileID: 4556901071716207440, guid: 9679dcc88213f401580a3d223687beae,
-    type: 3}
-  m_PrefabInstance: {fileID: 734026639}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &951139168
 GameObject:
   m_ObjectHideFlags: 0
@@ -3029,13 +1447,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1061512371}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 1, z: -4.88}
+  m_LocalRotation: {x: 0, y: 1, z: 0, w: 0}
+  m_LocalPosition: {x: 0, y: 0.82, z: 1.63}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
 --- !u!1 &1086662471
 GameObject:
   m_ObjectHideFlags: 0
@@ -3496,12 +1914,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1362736928}
   m_CullTransparentMesh: 0
---- !u!137 &1403253265 stripped
-SkinnedMeshRenderer:
-  m_CorrespondingSourceObject: {fileID: 37606696237740834, guid: 9679dcc88213f401580a3d223687beae,
-    type: 3}
-  m_PrefabInstance: {fileID: 734026639}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1805396856
 GameObject:
   m_ObjectHideFlags: 0
@@ -3682,7 +2094,7 @@ PlayableDirector:
   - key: {fileID: 6397573245274467482, guid: 4e9cf2b2982314b9795453bf996a729f, type: 2}
     value: {fileID: 0}
   - key: {fileID: -377541784346954990, guid: 4e9cf2b2982314b9795453bf996a729f, type: 2}
-    value: {fileID: 913256006}
+    value: {fileID: 2073442241}
   m_ExposedReferences:
     m_References:
     - d6fb8214c6fc542eda25a05c6438c536: {fileID: 2030463023}
@@ -4154,3 +2566,1166 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2030463023}
   m_CullTransparentMesh: 0
+--- !u!1001 &2073442238
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 200285783341105148, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 200285783341105148, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 920839460179691402, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 920839460179691402, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 920839460179691402, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 920839460179691402, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 982842607339661632, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 982842607339661632, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 982842607339661632, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 982842607339661632, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1036120809808752805, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1036120809808752805, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1036120809808752805, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1036120809808752805, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1036120809808752805, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.06667791
+      objectReference: {fileID: 0}
+    - target: {fileID: 1063584712168824075, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1063584712168824075, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1063584712168824075, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1063584712168824075, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1093846984107502440, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1093846984107502440, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1346348570497464263, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1346348570497464263, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1346348570497464263, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1346348570497464263, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376325961520950206, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376325961520950206, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376325961520950206, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376325961520950206, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1675890045223781422, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1675890045223781422, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1675890045223781422, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1675890045223781422, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1675890045223781422, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.06610958
+      objectReference: {fileID: 0}
+    - target: {fileID: 1941340113151196849, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1941340113151196849, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1973718462419776904, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1973718462419776904, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.21357395
+      objectReference: {fileID: 0}
+    - target: {fileID: 2169555099525036473, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2169555099525036473, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2169555099525036473, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2169555099525036473, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2266107569545824167, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2266107569545824167, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2266107569545824167, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2266107569545824167, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2266107569545824167, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2266107569545824167, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2266107569545824167, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2266107569545824167, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 2266107569545824167, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2266107569545824167, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2266107569545824167, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2338227681956207429, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2338227681956207429, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2338227681956207429, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2338227681956207429, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.06325929
+      objectReference: {fileID: 0}
+    - target: {fileID: 2621946634353224582, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2621946634353224582, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2621946634353224582, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2621946634353224582, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.06325905
+      objectReference: {fileID: 0}
+    - target: {fileID: 2712412735826444717, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2712412735826444717, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2712412735826444717, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2725900253134858228, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2725900253134858228, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2725900253134858228, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2725900253134858228, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3130838428130309323, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3130838428130309323, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3130838428130309323, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3130838428130309323, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3130838428130309323, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.06667833
+      objectReference: {fileID: 0}
+    - target: {fileID: 3168583690844725309, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3168583690844725309, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3168583690844725309, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3168583690844725309, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3218669325264612847, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3218669325264612847, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3218669325264612847, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3218669325264612847, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3394921018158091645, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3394921018158091645, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3394921018158091645, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3394921018158091645, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.0332608
+      objectReference: {fileID: 0}
+    - target: {fileID: 3515588379866187624, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_Name
+      value: nana002
+      objectReference: {fileID: 0}
+    - target: {fileID: 3591079095087617716, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3591079095087617716, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3591079095087617716, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3591079095087617716, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4002176986740349242, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4002176986740349242, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4002176986740349242, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4002176986740349242, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4215208301315484351, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4215208301315484351, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.00030254642
+      objectReference: {fileID: 0}
+    - target: {fileID: 4215208301315484351, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.9306954
+      objectReference: {fileID: 0}
+    - target: {fileID: 4215208301315484351, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.006297095
+      objectReference: {fileID: 0}
+    - target: {fileID: 4511732546282630350, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4511732546282630350, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4511732546282630350, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4602191489552151541, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4602191489552151541, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4602191489552151541, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4602191489552151541, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4602191489552151541, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.06610976
+      objectReference: {fileID: 0}
+    - target: {fileID: 4748244096285217862, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5138197528406339225, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5138197528406339225, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5138197528406339225, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5138197528406339225, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.063904926
+      objectReference: {fileID: 0}
+    - target: {fileID: 5147602888463491713, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5147602888463491713, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5147602888463491713, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5147602888463491713, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5147602888463491713, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.063904986
+      objectReference: {fileID: 0}
+    - target: {fileID: 5371575324227603651, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5371575324227603651, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5371575324227603651, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5874656005732076923, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5874656005732076923, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5874656005732076923, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5874656005732076923, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5874656005732076923, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.033249192
+      objectReference: {fileID: 0}
+    - target: {fileID: 6095939025206463152, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6095939025206463152, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6095939025206463152, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6095939025206463152, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6259960712455109612, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6259960712455109612, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6259960712455109612, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6259960712455109612, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6259960712455109612, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.02135764
+      objectReference: {fileID: 0}
+    - target: {fileID: 6465436410837010237, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_BlendShapeWeights.Array.size
+      value: 56
+      objectReference: {fileID: 0}
+    - target: {fileID: 6480147999824140246, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6480147999824140246, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6480147999824140246, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6480147999824140246, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6518711222327413940, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6518711222327413940, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6518711222327413940, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6518711222327413940, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6741710742532190442, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6821976446901348312, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6821976446901348312, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6821976446901348312, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7121197851754839900, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7121197851754839900, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7121197851754839900, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7121197851754839900, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7332573225814508958, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 9c6aaa6781026429ea7f40ec5b4e36ce, type: 2}
+    - target: {fileID: 7332573225814508958, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_WarningMessage
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7512301705729532162, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7512301705729532162, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.21357359
+      objectReference: {fileID: 0}
+    - target: {fileID: 8014148151368008676, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8014148151368008676, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8014148151368008676, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8014148151368008676, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8108143655922286728, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8108143655922286728, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8108143655922286728, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8108143655922286728, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8442597629414372333, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8442597629414372333, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8442597629414372333, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8442597629414372333, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.021353468
+      objectReference: {fileID: 0}
+    - target: {fileID: 9135846988369675338, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9135846988369675338, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9142074951787374370, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9142074951787374370, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9142074951787374370, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9142074951787374370, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b5a7545acf13f4f319d2e8c93ff8208b, type: 3}
+--- !u!1 &2073442239 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3515588379866187624, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+    type: 3}
+  m_PrefabInstance: {fileID: 2073442238}
+  m_PrefabAsset: {fileID: 0}
+--- !u!137 &2073442240 stripped
+SkinnedMeshRenderer:
+  m_CorrespondingSourceObject: {fileID: 6465436410837010237, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+    type: 3}
+  m_PrefabInstance: {fileID: 2073442238}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &2073442241 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 7332573225814508958, guid: b5a7545acf13f4f319d2e8c93ff8208b,
+    type: 3}
+  m_PrefabInstance: {fileID: 2073442238}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &2073442242
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2073442239}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 246455474a0d74a4291b3cedc896ebdf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  bonePaths:
+  - 
+  - Face
+  - Body
+  - Root
+  - Root/J_Bip_C_Hips
+  - Root/J_Bip_C_Hips/J_Sec_L_SkirtSide0
+  - Root/J_Bip_C_Hips/J_Sec_L_SkirtSide0/J_Sec_L_SkirtSide1
+  - Root/J_Bip_C_Hips/J_Sec_L_SkirtSide0/J_Sec_L_SkirtSide1/J_Sec_L_SkirtSide2
+  - Root/J_Bip_C_Hips/J_Sec_L_SkirtSide0/J_Sec_L_SkirtSide1/J_Sec_L_SkirtSide2/J_Sec_L_SkirtSide2_end
+  - Root/J_Bip_C_Hips/J_Sec_R_SkirtSide0
+  - Root/J_Bip_C_Hips/J_Sec_R_SkirtSide0/J_Sec_R_SkirtSide1
+  - Root/J_Bip_C_Hips/J_Sec_R_SkirtSide0/J_Sec_R_SkirtSide1/J_Sec_R_SkirtSide2
+  - Root/J_Bip_C_Hips/J_Sec_R_SkirtSide0/J_Sec_R_SkirtSide1/J_Sec_R_SkirtSide2/J_Sec_R_SkirtSide2_end
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Sec_L_Bust1
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Sec_L_Bust1/J_Sec_L_Bust2
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Sec_R_Bust1
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Sec_R_Bust1/J_Sec_R_Bust2
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/J_Adj_L_FaceEye
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/J_Adj_R_FaceEye
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-1906a1ce-1b58-4a73-8500-32a1e759a35c
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-1906a1ce-1b58-4a73-8500-32a1e759a35c/HairJoint-f0b7c795-5106-4fab-beb9-c0f895e88a89
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-1906a1ce-1b58-4a73-8500-32a1e759a35c/HairJoint-f0b7c795-5106-4fab-beb9-c0f895e88a89/HairJoint-b46fdffa-a53f-4076-83e4-7a50dcb8234f
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-1906a1ce-1b58-4a73-8500-32a1e759a35c/HairJoint-f0b7c795-5106-4fab-beb9-c0f895e88a89/HairJoint-b46fdffa-a53f-4076-83e4-7a50dcb8234f/HairJoint-38cdccb9-4500-49c5-8a0d-def1e7c03f3a
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-0d9961ed-f925-45ac-b491-6815dbb9da79
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-0d9961ed-f925-45ac-b491-6815dbb9da79/HairJoint-4b19ab6e-33be-4ff7-9048-3e528cf52d76
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-0d9961ed-f925-45ac-b491-6815dbb9da79/HairJoint-4b19ab6e-33be-4ff7-9048-3e528cf52d76/HairJoint-93451e85-eaf6-49cf-bea7-11e9b1b1d0bc
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-b6d75a88-8b98-4f07-9970-2e20ae497072
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-b6d75a88-8b98-4f07-9970-2e20ae497072/HairJoint-ea9b0d11-3499-419f-b9ed-4e7c4f789a18
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-b6d75a88-8b98-4f07-9970-2e20ae497072/HairJoint-ea9b0d11-3499-419f-b9ed-4e7c4f789a18/HairJoint-f11d0e77-af7d-4089-92fd-77f6fc09ef15
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-40bf39dd-d75d-44d7-a3f8-400ac041517f
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-40bf39dd-d75d-44d7-a3f8-400ac041517f/HairJoint-1c4c06f4-799d-407a-a632-c5135e23387f
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-40bf39dd-d75d-44d7-a3f8-400ac041517f/HairJoint-1c4c06f4-799d-407a-a632-c5135e23387f/HairJoint-ebd652d7-9c7a-4991-a7b5-1541d3b62fa9
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-15cbe406-4099-45b5-856c-8c5abbdadeef
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-15cbe406-4099-45b5-856c-8c5abbdadeef/HairJoint-aabbd2b4-0b1a-449e-a67c-282631e03201
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-15cbe406-4099-45b5-856c-8c5abbdadeef/HairJoint-aabbd2b4-0b1a-449e-a67c-282631e03201/HairJoint-0ce90ef2-aa02-4999-a9bb-d879a378bb21
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-60421b4c-bee2-4d6b-8ff9-a2cc1da1bea4
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-60421b4c-bee2-4d6b-8ff9-a2cc1da1bea4/HairJoint-1b387e37-081e-4fbe-8dd9-7d85bb0ad3ed
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-60421b4c-bee2-4d6b-8ff9-a2cc1da1bea4/HairJoint-1b387e37-081e-4fbe-8dd9-7d85bb0ad3ed/HairJoint-54c37321-c7aa-433d-928c-7444e829c2b9
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-028f7d9a-b8a4-4d92-b7c6-bcf3a0f01695
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-028f7d9a-b8a4-4d92-b7c6-bcf3a0f01695/HairJoint-84ada00a-a986-4cea-87cf-9c0f68b18a7b
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-028f7d9a-b8a4-4d92-b7c6-bcf3a0f01695/HairJoint-84ada00a-a986-4cea-87cf-9c0f68b18a7b/HairJoint-331be3ba-f4ac-4b44-ba0f-fbabc5e08355
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-ec053d53-1f0e-461d-92d1-b15ce5b0440b
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-ec053d53-1f0e-461d-92d1-b15ce5b0440b/HairJoint-31d1f4de-c7b3-470d-80bc-d01bf2b2f3cc
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-ec053d53-1f0e-461d-92d1-b15ce5b0440b/HairJoint-31d1f4de-c7b3-470d-80bc-d01bf2b2f3cc/HairJoint-0c658cdc-553a-4463-943c-6e29211baf25
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-b47a78b7-5d12-4c93-b611-8522faa11860
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-b47a78b7-5d12-4c93-b611-8522faa11860/HairJoint-d08f744f-718c-4a2d-9d01-9d4703e10bb3
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-b47a78b7-5d12-4c93-b611-8522faa11860/HairJoint-d08f744f-718c-4a2d-9d01-9d4703e10bb3/HairJoint-ca96780f-32c3-421c-9f5e-5da67a97a66d
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-b47a78b7-5d12-4c93-b611-8522faa11860/HairJoint-d08f744f-718c-4a2d-9d01-9d4703e10bb3/HairJoint-ca96780f-32c3-421c-9f5e-5da67a97a66d/HairJoint-50f8bae7-fb88-4a40-ba0c-6b9ac256457f
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-b47a78b7-5d12-4c93-b611-8522faa11860/HairJoint-d08f744f-718c-4a2d-9d01-9d4703e10bb3/HairJoint-ca96780f-32c3-421c-9f5e-5da67a97a66d/HairJoint-50f8bae7-fb88-4a40-ba0c-6b9ac256457f/HairJoint-adec11db-72d9-4ee5-9d13-21501122b31d
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-b47a78b7-5d12-4c93-b611-8522faa11860/HairJoint-d08f744f-718c-4a2d-9d01-9d4703e10bb3/HairJoint-ca96780f-32c3-421c-9f5e-5da67a97a66d/HairJoint-50f8bae7-fb88-4a40-ba0c-6b9ac256457f/HairJoint-adec11db-72d9-4ee5-9d13-21501122b31d/HairJoint-fb2f6c7c-94cf-4cf3-832b-257007f99c70
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-b47a78b7-5d12-4c93-b611-8522faa11860/HairJoint-d08f744f-718c-4a2d-9d01-9d4703e10bb3/HairJoint-ca96780f-32c3-421c-9f5e-5da67a97a66d/HairJoint-50f8bae7-fb88-4a40-ba0c-6b9ac256457f/HairJoint-adec11db-72d9-4ee5-9d13-21501122b31d/HairJoint-fb2f6c7c-94cf-4cf3-832b-257007f99c70/HairJoint-986849f0-0394-4f7d-a20e-f45e992ce63d
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-d89208f3-3830-47fb-bc1c-a064cec35a18
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-d89208f3-3830-47fb-bc1c-a064cec35a18/HairJoint-1f501bdd-986c-41f2-9e3d-be318408450e
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-d89208f3-3830-47fb-bc1c-a064cec35a18/HairJoint-1f501bdd-986c-41f2-9e3d-be318408450e/HairJoint-322d03dd-2ad4-45ef-bef1-2172c7b4af0d
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-d89208f3-3830-47fb-bc1c-a064cec35a18/HairJoint-1f501bdd-986c-41f2-9e3d-be318408450e/HairJoint-322d03dd-2ad4-45ef-bef1-2172c7b4af0d/HairJoint-d7d24428-65d9-40d8-a3be-86d09e87d633
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-d89208f3-3830-47fb-bc1c-a064cec35a18/HairJoint-1f501bdd-986c-41f2-9e3d-be318408450e/HairJoint-322d03dd-2ad4-45ef-bef1-2172c7b4af0d/HairJoint-d7d24428-65d9-40d8-a3be-86d09e87d633/HairJoint-bfc0a0dc-2de6-40f8-ad96-79615fa1817d
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-d89208f3-3830-47fb-bc1c-a064cec35a18/HairJoint-1f501bdd-986c-41f2-9e3d-be318408450e/HairJoint-322d03dd-2ad4-45ef-bef1-2172c7b4af0d/HairJoint-d7d24428-65d9-40d8-a3be-86d09e87d633/HairJoint-bfc0a0dc-2de6-40f8-ad96-79615fa1817d/HairJoint-9e951200-9c36-4f68-81d7-872a722c40bb
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-5e784232-233f-4061-8194-8f591be00b81
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-5e784232-233f-4061-8194-8f591be00b81/HairJoint-51d33840-0f98-4d36-a192-5faae8750315
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-5e784232-233f-4061-8194-8f591be00b81/HairJoint-51d33840-0f98-4d36-a192-5faae8750315/HairJoint-74713f61-9349-436f-a5f9-431329c8448c
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-5e784232-233f-4061-8194-8f591be00b81/HairJoint-51d33840-0f98-4d36-a192-5faae8750315/HairJoint-74713f61-9349-436f-a5f9-431329c8448c/HairJoint-32ea4f94-ae34-4479-ac13-9cf6d719ad68
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-5e784232-233f-4061-8194-8f591be00b81/HairJoint-51d33840-0f98-4d36-a192-5faae8750315/HairJoint-74713f61-9349-436f-a5f9-431329c8448c/HairJoint-32ea4f94-ae34-4479-ac13-9cf6d719ad68/HairJoint-fcefea6d-e9ac-4076-98b1-ac9bb9a3e3c7
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-5e784232-233f-4061-8194-8f591be00b81/HairJoint-51d33840-0f98-4d36-a192-5faae8750315/HairJoint-74713f61-9349-436f-a5f9-431329c8448c/HairJoint-32ea4f94-ae34-4479-ac13-9cf6d719ad68/HairJoint-fcefea6d-e9ac-4076-98b1-ac9bb9a3e3c7/HairJoint-57df0d23-f4d6-4791-83f7-17c36fc4ff02
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-a37fc5ef-4292-4cd9-806e-bd3ea7c61ff8
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-a37fc5ef-4292-4cd9-806e-bd3ea7c61ff8/HairJoint-5a957a85-fc75-4a79-a6a6-dc8c1cafbf53
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-a37fc5ef-4292-4cd9-806e-bd3ea7c61ff8/HairJoint-5a957a85-fc75-4a79-a6a6-dc8c1cafbf53/HairJoint-a348fae2-b1db-440b-abbe-a7a43acf651b
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-a37fc5ef-4292-4cd9-806e-bd3ea7c61ff8/HairJoint-5a957a85-fc75-4a79-a6a6-dc8c1cafbf53/HairJoint-a348fae2-b1db-440b-abbe-a7a43acf651b/HairJoint-433887c8-cb8b-4b9d-a5a2-833927dcccd3
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-a37fc5ef-4292-4cd9-806e-bd3ea7c61ff8/HairJoint-5a957a85-fc75-4a79-a6a6-dc8c1cafbf53/HairJoint-a348fae2-b1db-440b-abbe-a7a43acf651b/HairJoint-433887c8-cb8b-4b9d-a5a2-833927dcccd3/HairJoint-75e1bc5b-f4a6-4198-8b00-caa3ded05733
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-17dd99c0-b8b4-401e-8479-b7feae55acc4
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-17dd99c0-b8b4-401e-8479-b7feae55acc4/HairJoint-e619f702-8b6a-4d41-87d6-b17b67b95405
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-17dd99c0-b8b4-401e-8479-b7feae55acc4/HairJoint-e619f702-8b6a-4d41-87d6-b17b67b95405/HairJoint-8e6ca9df-89f3-41b0-a20d-9af041e86b9e
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-17dd99c0-b8b4-401e-8479-b7feae55acc4/HairJoint-e619f702-8b6a-4d41-87d6-b17b67b95405/HairJoint-8e6ca9df-89f3-41b0-a20d-9af041e86b9e/HairJoint-277c83d4-a7e9-4da6-883b-c7ace71aacd5
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-17dd99c0-b8b4-401e-8479-b7feae55acc4/HairJoint-e619f702-8b6a-4d41-87d6-b17b67b95405/HairJoint-8e6ca9df-89f3-41b0-a20d-9af041e86b9e/HairJoint-277c83d4-a7e9-4da6-883b-c7ace71aacd5/HairJoint-827c4fac-d0a9-497e-9b16-99c6e9bc2a09
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-795840ac-cc55-4cb0-ab5f-81c16bf834df
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-795840ac-cc55-4cb0-ab5f-81c16bf834df/HairJoint-7a327e31-72de-4128-9eb3-10a73f13016d
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-795840ac-cc55-4cb0-ab5f-81c16bf834df/HairJoint-7a327e31-72de-4128-9eb3-10a73f13016d/HairJoint-ada6194d-3d07-4810-950f-732756e3d330
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-795840ac-cc55-4cb0-ab5f-81c16bf834df/HairJoint-7a327e31-72de-4128-9eb3-10a73f13016d/HairJoint-ada6194d-3d07-4810-950f-732756e3d330/HairJoint-18025069-f981-4979-9662-46df16d897e6
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-795840ac-cc55-4cb0-ab5f-81c16bf834df/HairJoint-7a327e31-72de-4128-9eb3-10a73f13016d/HairJoint-ada6194d-3d07-4810-950f-732756e3d330/HairJoint-18025069-f981-4979-9662-46df16d897e6/HairJoint-e77bf0e4-a6fb-403b-85cd-3ff552a703d7
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-0070fd8e-1d1d-4216-a5a2-df0d52726bc6
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-0070fd8e-1d1d-4216-a5a2-df0d52726bc6/HairJoint-7b6e01d4-c7ef-49fa-b525-4cc9c68f8a65
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-0070fd8e-1d1d-4216-a5a2-df0d52726bc6/HairJoint-7b6e01d4-c7ef-49fa-b525-4cc9c68f8a65/HairJoint-fecd8a29-178d-473e-9424-6adaa3d16907
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_C_Neck/J_Bip_C_Head/HairJoint-0070fd8e-1d1d-4216-a5a2-df0d52726bc6/HairJoint-7b6e01d4-c7ef-49fa-b525-4cc9c68f8a65/HairJoint-fecd8a29-178d-473e-9424-6adaa3d16907/HairJoint-ac5d02cc-38cd-4155-838f-640d26291f5b
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_L_Shoulder
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_L_Shoulder/J_Bip_L_UpperArm
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_L_Shoulder/J_Bip_L_UpperArm/J_Bip_L_LowerArm
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_L_Shoulder/J_Bip_L_UpperArm/J_Bip_L_LowerArm/J_Sec_L_LowerSleeve
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_L_Shoulder/J_Bip_L_UpperArm/J_Bip_L_LowerArm/J_Sec_L_LowerSleeve/J_Sec_L_LowerSleeve_end
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_L_Shoulder/J_Bip_L_UpperArm/J_Bip_L_LowerArm/J_Bip_L_Hand
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_L_Shoulder/J_Bip_L_UpperArm/J_Bip_L_LowerArm/J_Bip_L_Hand/J_Bip_L_Index1
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_L_Shoulder/J_Bip_L_UpperArm/J_Bip_L_LowerArm/J_Bip_L_Hand/J_Bip_L_Index1/J_Bip_L_Index2
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_L_Shoulder/J_Bip_L_UpperArm/J_Bip_L_LowerArm/J_Bip_L_Hand/J_Bip_L_Index1/J_Bip_L_Index2/J_Bip_L_Index3
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_L_Shoulder/J_Bip_L_UpperArm/J_Bip_L_LowerArm/J_Bip_L_Hand/J_Bip_L_Index1/J_Bip_L_Index2/J_Bip_L_Index3/J_Bip_L_Index3_end
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_L_Shoulder/J_Bip_L_UpperArm/J_Bip_L_LowerArm/J_Bip_L_Hand/J_Bip_L_Little1
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_L_Shoulder/J_Bip_L_UpperArm/J_Bip_L_LowerArm/J_Bip_L_Hand/J_Bip_L_Little1/J_Bip_L_Little2
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_L_Shoulder/J_Bip_L_UpperArm/J_Bip_L_LowerArm/J_Bip_L_Hand/J_Bip_L_Little1/J_Bip_L_Little2/J_Bip_L_Little3
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_L_Shoulder/J_Bip_L_UpperArm/J_Bip_L_LowerArm/J_Bip_L_Hand/J_Bip_L_Little1/J_Bip_L_Little2/J_Bip_L_Little3/J_Bip_L_Little3_end
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_L_Shoulder/J_Bip_L_UpperArm/J_Bip_L_LowerArm/J_Bip_L_Hand/J_Bip_L_Middle1
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_L_Shoulder/J_Bip_L_UpperArm/J_Bip_L_LowerArm/J_Bip_L_Hand/J_Bip_L_Middle1/J_Bip_L_Middle2
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_L_Shoulder/J_Bip_L_UpperArm/J_Bip_L_LowerArm/J_Bip_L_Hand/J_Bip_L_Middle1/J_Bip_L_Middle2/J_Bip_L_Middle3
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_L_Shoulder/J_Bip_L_UpperArm/J_Bip_L_LowerArm/J_Bip_L_Hand/J_Bip_L_Middle1/J_Bip_L_Middle2/J_Bip_L_Middle3/J_Bip_L_Middle3_end
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_L_Shoulder/J_Bip_L_UpperArm/J_Bip_L_LowerArm/J_Bip_L_Hand/J_Bip_L_Ring1
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_L_Shoulder/J_Bip_L_UpperArm/J_Bip_L_LowerArm/J_Bip_L_Hand/J_Bip_L_Ring1/J_Bip_L_Ring2
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_L_Shoulder/J_Bip_L_UpperArm/J_Bip_L_LowerArm/J_Bip_L_Hand/J_Bip_L_Ring1/J_Bip_L_Ring2/J_Bip_L_Ring3
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_L_Shoulder/J_Bip_L_UpperArm/J_Bip_L_LowerArm/J_Bip_L_Hand/J_Bip_L_Ring1/J_Bip_L_Ring2/J_Bip_L_Ring3/J_Bip_L_Ring3_end
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_L_Shoulder/J_Bip_L_UpperArm/J_Bip_L_LowerArm/J_Bip_L_Hand/J_Bip_L_Thumb1
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_L_Shoulder/J_Bip_L_UpperArm/J_Bip_L_LowerArm/J_Bip_L_Hand/J_Bip_L_Thumb1/J_Bip_L_Thumb2
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_L_Shoulder/J_Bip_L_UpperArm/J_Bip_L_LowerArm/J_Bip_L_Hand/J_Bip_L_Thumb1/J_Bip_L_Thumb2/J_Bip_L_Thumb3
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_L_Shoulder/J_Bip_L_UpperArm/J_Bip_L_LowerArm/J_Bip_L_Hand/J_Bip_L_Thumb1/J_Bip_L_Thumb2/J_Bip_L_Thumb3/J_Bip_L_Thumb3_end
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_L_Shoulder/J_Bip_L_UpperArm/J_Bip_L_LowerArm/J_Bip_L_Hand/J_Sec_L_TipSleeve
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_L_Shoulder/J_Bip_L_UpperArm/J_Bip_L_LowerArm/J_Bip_L_Hand/J_Sec_L_TipSleeve/J_Sec_L_TipSleeve_end
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_R_Shoulder
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_R_Shoulder/J_Bip_R_UpperArm
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_R_Shoulder/J_Bip_R_UpperArm/J_Bip_R_LowerArm
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_R_Shoulder/J_Bip_R_UpperArm/J_Bip_R_LowerArm/J_Sec_R_LowerSleeve
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_R_Shoulder/J_Bip_R_UpperArm/J_Bip_R_LowerArm/J_Sec_R_LowerSleeve/J_Sec_R_LowerSleeve_end
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_R_Shoulder/J_Bip_R_UpperArm/J_Bip_R_LowerArm/J_Bip_R_Hand
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_R_Shoulder/J_Bip_R_UpperArm/J_Bip_R_LowerArm/J_Bip_R_Hand/J_Bip_R_Index1
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_R_Shoulder/J_Bip_R_UpperArm/J_Bip_R_LowerArm/J_Bip_R_Hand/J_Bip_R_Index1/J_Bip_R_Index2
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_R_Shoulder/J_Bip_R_UpperArm/J_Bip_R_LowerArm/J_Bip_R_Hand/J_Bip_R_Index1/J_Bip_R_Index2/J_Bip_R_Index3
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_R_Shoulder/J_Bip_R_UpperArm/J_Bip_R_LowerArm/J_Bip_R_Hand/J_Bip_R_Index1/J_Bip_R_Index2/J_Bip_R_Index3/J_Bip_R_Index3_end
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_R_Shoulder/J_Bip_R_UpperArm/J_Bip_R_LowerArm/J_Bip_R_Hand/J_Bip_R_Little1
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_R_Shoulder/J_Bip_R_UpperArm/J_Bip_R_LowerArm/J_Bip_R_Hand/J_Bip_R_Little1/J_Bip_R_Little2
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_R_Shoulder/J_Bip_R_UpperArm/J_Bip_R_LowerArm/J_Bip_R_Hand/J_Bip_R_Little1/J_Bip_R_Little2/J_Bip_R_Little3
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_R_Shoulder/J_Bip_R_UpperArm/J_Bip_R_LowerArm/J_Bip_R_Hand/J_Bip_R_Little1/J_Bip_R_Little2/J_Bip_R_Little3/J_Bip_R_Little3_end
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_R_Shoulder/J_Bip_R_UpperArm/J_Bip_R_LowerArm/J_Bip_R_Hand/J_Bip_R_Middle1
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_R_Shoulder/J_Bip_R_UpperArm/J_Bip_R_LowerArm/J_Bip_R_Hand/J_Bip_R_Middle1/J_Bip_R_Middle2
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_R_Shoulder/J_Bip_R_UpperArm/J_Bip_R_LowerArm/J_Bip_R_Hand/J_Bip_R_Middle1/J_Bip_R_Middle2/J_Bip_R_Middle3
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_R_Shoulder/J_Bip_R_UpperArm/J_Bip_R_LowerArm/J_Bip_R_Hand/J_Bip_R_Middle1/J_Bip_R_Middle2/J_Bip_R_Middle3/J_Bip_R_Middle3_end
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_R_Shoulder/J_Bip_R_UpperArm/J_Bip_R_LowerArm/J_Bip_R_Hand/J_Bip_R_Ring1
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_R_Shoulder/J_Bip_R_UpperArm/J_Bip_R_LowerArm/J_Bip_R_Hand/J_Bip_R_Ring1/J_Bip_R_Ring2
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_R_Shoulder/J_Bip_R_UpperArm/J_Bip_R_LowerArm/J_Bip_R_Hand/J_Bip_R_Ring1/J_Bip_R_Ring2/J_Bip_R_Ring3
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_R_Shoulder/J_Bip_R_UpperArm/J_Bip_R_LowerArm/J_Bip_R_Hand/J_Bip_R_Ring1/J_Bip_R_Ring2/J_Bip_R_Ring3/J_Bip_R_Ring3_end
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_R_Shoulder/J_Bip_R_UpperArm/J_Bip_R_LowerArm/J_Bip_R_Hand/J_Bip_R_Thumb1
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_R_Shoulder/J_Bip_R_UpperArm/J_Bip_R_LowerArm/J_Bip_R_Hand/J_Bip_R_Thumb1/J_Bip_R_Thumb2
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_R_Shoulder/J_Bip_R_UpperArm/J_Bip_R_LowerArm/J_Bip_R_Hand/J_Bip_R_Thumb1/J_Bip_R_Thumb2/J_Bip_R_Thumb3
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_R_Shoulder/J_Bip_R_UpperArm/J_Bip_R_LowerArm/J_Bip_R_Hand/J_Bip_R_Thumb1/J_Bip_R_Thumb2/J_Bip_R_Thumb3/J_Bip_R_Thumb3_end
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_R_Shoulder/J_Bip_R_UpperArm/J_Bip_R_LowerArm/J_Bip_R_Hand/J_Sec_R_TipSleeve
+  - Root/J_Bip_C_Hips/J_Bip_C_Spine/J_Bip_C_Chest/J_Bip_C_UpperChest/J_Bip_R_Shoulder/J_Bip_R_UpperArm/J_Bip_R_LowerArm/J_Bip_R_Hand/J_Sec_R_TipSleeve/J_Sec_R_TipSleeve_end
+  - Root/J_Bip_C_Hips/J_Bip_L_UpperLeg
+  - Root/J_Bip_C_Hips/J_Bip_L_UpperLeg/J_Sec_L_SkirtBack0
+  - Root/J_Bip_C_Hips/J_Bip_L_UpperLeg/J_Sec_L_SkirtBack0/J_Sec_L_SkirtBack1
+  - Root/J_Bip_C_Hips/J_Bip_L_UpperLeg/J_Sec_L_SkirtBack0/J_Sec_L_SkirtBack1/J_Sec_L_SkirtBack2
+  - Root/J_Bip_C_Hips/J_Bip_L_UpperLeg/J_Sec_L_SkirtBack0/J_Sec_L_SkirtBack1/J_Sec_L_SkirtBack2/J_Sec_L_SkirtBack2_end
+  - Root/J_Bip_C_Hips/J_Bip_L_UpperLeg/J_Sec_L_SkirtFront0
+  - Root/J_Bip_C_Hips/J_Bip_L_UpperLeg/J_Sec_L_SkirtFront0/J_Sec_L_SkirtFront1
+  - Root/J_Bip_C_Hips/J_Bip_L_UpperLeg/J_Sec_L_SkirtFront0/J_Sec_L_SkirtFront1/J_Sec_L_SkirtFront2
+  - Root/J_Bip_C_Hips/J_Bip_L_UpperLeg/J_Sec_L_SkirtFront0/J_Sec_L_SkirtFront1/J_Sec_L_SkirtFront2/J_Sec_L_SkirtFront2_end
+  - Root/J_Bip_C_Hips/J_Bip_L_UpperLeg/J_Bip_L_LowerLeg
+  - Root/J_Bip_C_Hips/J_Bip_L_UpperLeg/J_Bip_L_LowerLeg/J_Bip_L_Foot
+  - Root/J_Bip_C_Hips/J_Bip_L_UpperLeg/J_Bip_L_LowerLeg/J_Bip_L_Foot/J_Bip_L_ToeBase
+  - Root/J_Bip_C_Hips/J_Bip_L_UpperLeg/J_Bip_L_LowerLeg/J_Bip_L_Foot/J_Bip_L_ToeBase/J_Bip_L_ToeBase_end
+  - Root/J_Bip_C_Hips/J_Bip_R_UpperLeg
+  - Root/J_Bip_C_Hips/J_Bip_R_UpperLeg/J_Sec_R_SkirtBack0
+  - Root/J_Bip_C_Hips/J_Bip_R_UpperLeg/J_Sec_R_SkirtBack0/J_Sec_R_SkirtBack1
+  - Root/J_Bip_C_Hips/J_Bip_R_UpperLeg/J_Sec_R_SkirtBack0/J_Sec_R_SkirtBack1/J_Sec_R_SkirtBack2
+  - Root/J_Bip_C_Hips/J_Bip_R_UpperLeg/J_Sec_R_SkirtBack0/J_Sec_R_SkirtBack1/J_Sec_R_SkirtBack2/J_Sec_R_SkirtBack2_end
+  - Root/J_Bip_C_Hips/J_Bip_R_UpperLeg/J_Sec_R_SkirtFront0
+  - Root/J_Bip_C_Hips/J_Bip_R_UpperLeg/J_Sec_R_SkirtFront0/J_Sec_R_SkirtFront1
+  - Root/J_Bip_C_Hips/J_Bip_R_UpperLeg/J_Sec_R_SkirtFront0/J_Sec_R_SkirtFront1/J_Sec_R_SkirtFront2
+  - Root/J_Bip_C_Hips/J_Bip_R_UpperLeg/J_Sec_R_SkirtFront0/J_Sec_R_SkirtFront1/J_Sec_R_SkirtFront2/J_Sec_R_SkirtFront2_end
+  - Root/J_Bip_C_Hips/J_Bip_R_UpperLeg/J_Bip_R_LowerLeg
+  - Root/J_Bip_C_Hips/J_Bip_R_UpperLeg/J_Bip_R_LowerLeg/J_Bip_R_Foot
+  - Root/J_Bip_C_Hips/J_Bip_R_UpperLeg/J_Bip_R_LowerLeg/J_Bip_R_Foot/J_Bip_R_ToeBase
+  - Root/J_Bip_C_Hips/J_Bip_R_UpperLeg/J_Bip_R_LowerLeg/J_Bip_R_Foot/J_Bip_R_ToeBase/J_Bip_R_ToeBase_end
+  - Hairs
+  - Hairs/Hair001
+  - secondary
+  showBones: 000000000d0000000e0000000f00000014000000150000005700000058000000590000005c000000730000007400000075000000780000008f00000098000000990000009a0000009c000000a5000000a6000000a7000000
+  foldoutBones: a9000000a7000000a6000000a5000000a3000000a2000000a10000009f0000009e0000009d0000009c0000009a00000099000000980000009600000095000000940000009200000091000000900000008f0000008d0000008b0000008a000000890000008700000086000000850000008300000082000000810000007f0000007e0000007d0000007b0000007a000000790000007800000076000000750000007400000073000000710000006f0000006e0000006d0000006b0000006a000000690000006700000066000000650000006300000062000000610000005f0000005e0000005d0000005c0000005a00000059000000580000005700000055000000540000005300000051000000500000004f0000004e0000004c0000004b0000004a00000049000000470000004600000045000000440000004200000041000000400000003f0000003e0000003c0000003b0000003a00000039000000380000003600000035000000340000003300000032000000310000002f0000002e0000002c0000002b000000290000002800000026000000250000002300000022000000200000001f0000001d0000001c0000001a0000001900000018000000150000001400000012000000100000000f0000000e0000000d0000000b0000000a00000009000000070000000600000005000000040000000300000000000000
+  mirrorBones: ffffffffffffffffffffffffffffffffffffffff090000000a0000000b0000000c00000005000000060000000700000008000000ffffffffffffffffffffffff12000000130000001000000011000000ffffffffffffffff1700000016000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f0000007000000071000000720000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a80000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b000000ffffffffffffffffffffffff
+  mirrorBlendShape:
+  - renderer: {fileID: 2073442240}
+    names:
+    - Face.M_F00_000_00_Fcl_EYE_Close_R
+    - Face.M_F00_000_00_Fcl_EYE_Close_L
+    - Face.M_F00_000_00_Fcl_EYE_Joy_R
+    - Face.M_F00_000_00_Fcl_EYE_Joy_L
+    - Face.M_F00_000_00_Fcl_MTH_SkinFung_R
+    - Face.M_F00_000_00_Fcl_MTH_SkinFung_L
+    mirrorNames:
+    - Face.M_F00_000_00_Fcl_EYE_Close_L
+    - Face.M_F00_000_00_Fcl_EYE_Close_R
+    - Face.M_F00_000_00_Fcl_EYE_Joy_L
+    - Face.M_F00_000_00_Fcl_EYE_Joy_R
+    - Face.M_F00_000_00_Fcl_MTH_SkinFung_L
+    - Face.M_F00_000_00_Fcl_MTH_SkinFung_R
+  animatorIkData:
+  - enable: 0
+    _fixed: 0
+    autoRotation: 0
+    spaceType: 0
+    parent: {fileID: 0}
+    position: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+    target: {fileID: 0}
+    offset: {x: 0, y: 0, z: 0}
+    headWeight: 1
+    eyesWeight: 0
+    swivelRotation: 0
+    swivelPosition: {x: 0, y: 0, z: 0}
+  - enable: 0
+    _fixed: 0
+    autoRotation: 0
+    spaceType: 0
+    parent: {fileID: 0}
+    position: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+    target: {fileID: 0}
+    offset: {x: 0, y: 0, z: 0}
+    headWeight: 1
+    eyesWeight: 0
+    swivelRotation: 0
+    swivelPosition: {x: 0, y: 0, z: 0}
+  - enable: 0
+    _fixed: 0
+    autoRotation: 0
+    spaceType: 0
+    parent: {fileID: 0}
+    position: {x: 0.3294236, y: 1.3359398, z: 0.15620856}
+    rotation: {x: -0.6710297, y: 0.08635042, z: -0.3485601, w: 0.6486668}
+    target: {fileID: 0}
+    offset: {x: 0, y: 0, z: 0}
+    headWeight: 1
+    eyesWeight: 0
+    swivelRotation: 163.64813
+    swivelPosition: {x: 0, y: 0, z: 0}
+  - enable: 0
+    _fixed: 0
+    autoRotation: 0
+    spaceType: 0
+    parent: {fileID: 0}
+    position: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+    target: {fileID: 0}
+    offset: {x: 0, y: 0, z: 0}
+    headWeight: 1
+    eyesWeight: 0
+    swivelRotation: 0
+    swivelPosition: {x: 0, y: 0, z: 0}
+  - enable: 0
+    _fixed: 0
+    autoRotation: 0
+    spaceType: 0
+    parent: {fileID: 0}
+    position: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+    target: {fileID: 0}
+    offset: {x: 0, y: 0, z: 0}
+    headWeight: 1
+    eyesWeight: 0
+    swivelRotation: 0
+    swivelPosition: {x: 0, y: 0, z: 0}
+  originalIkData: []
+  selectionData: []
+  lastSelectAnimationClip: {fileID: 7400000, guid: ef26a82ae045d49b1ae68a1c98d0b0ea,
+    type: 2}
+  handPoseList: []
+  blendShapeList: []
