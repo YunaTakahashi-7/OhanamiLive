@@ -6,9 +6,9 @@ public class testkeyB : MonoBehaviour
 {
     private bool canclick = true;
     
-    void Start()
+    void OnEnable()
     {
-        
+        canclick = true;
     }
 
     // Update is called once per frame

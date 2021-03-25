@@ -6,9 +6,9 @@ public class testkeyC : MonoBehaviour
 {
     private bool canclick = true;
     // Start is called before the first frame update
-    void Start()
+    void OnEnable()
     {
-        
+        canclick = true;
     }
 
     // Update is called once per frame
