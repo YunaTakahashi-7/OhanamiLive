@@ -4,5 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/TitleScene.unity
+    guid: bfcdf00d341fd45d98f95ae1ae768ab4
+  - enabled: 1
+    path: Assets/Scenes/SelectMusic.unity
+    guid: dc3cbfe2b7b7a46b594612a0af268f02
+  - enabled: 1
+    path: Assets/Scenes/Shiningstar.unity
+    guid: f326893cfcc764ed291fbf220c69fecb
   m_configObjects: {}
