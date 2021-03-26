@@ -16,7 +16,7 @@ public class testkeyM : MonoBehaviour
     {
         if(Input.GetKeyDown(KeyCode.M) && canclick)
         {
-            testscore.testnum++;
+            testscore.testnum += 100;
             Debug.Log(testscore.testnum);
             // gameObject.SetActive(false);
             canclick = false;

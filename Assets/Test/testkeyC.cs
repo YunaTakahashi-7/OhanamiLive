@@ -16,7 +16,7 @@ public class testkeyC : MonoBehaviour
     {
         if(Input.GetKeyDown(KeyCode.C) && canclick)
         {
-            testscore.testnum++;
+            testscore.testnum += 100;
             Debug.Log(testscore.testnum);
             canclick = false;
         }
